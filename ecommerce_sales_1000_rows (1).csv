@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Region,Quantity,Sales,Discount,Profit
+ORD0001,2025-05-21,C164,Neha Yadav,Monitor,Technology,South,1,15300.0,0.15,2700.89
+ORD0002,2025-08-05,C189,Vikash Joshi,Monitor,Technology,North,2,32400.0,0.1,5600.6
+ORD0003,2025-04-12,C056,Kavya Singh,Printer,Office Supplies,Central,1,10800.0,0.1,2273.91
+ORD0004,2025-05-23,C108,Anjali Gupta,Printer,Office Supplies,North,8,86400.0,0.1,18490.18
+ORD0005,2025-05-23,C195,Manish Joshi,Keyboard,Technology,East,7,11970.0,0.05,3705.98
+ORD0006,2025-07-03,C027,Arjun Verma,Tablet,Technology,Central,7,196000,0,33251.37
+ORD0007,2025-03-05,C068,Anjali Patel,Smartphone,Technology,West,8,172800.0,0.1,38027.94
+ORD0008,2025-11-18,C021,Rahul Verma,External Hard Drive,Technology,East,5,26000.0,0.2,4998.26
+ORD0009,2025-12-05,C148,Anjali Shah,Mouse,Technology,East,2,1800,0,573.88
+ORD0010,2025-05-23,C021,Rahul Verma,Printer,Office Supplies,East,2,22080.0,0.08,4462.73
+ORD0011,2025-12-10,C042,Priya Singh,Office Chair,Furniture,North,6,35280.0,0.02,7876.82
+ORD0012,2025-08-25,C156,Kavya Shah,Keyboard,Technology,Central,4,7056.0,0.02,2293.71
+ORD0013,2025-01-17,C057,Nikhil Singh,Desk,Furniture,West,1,7840.0,0.02,1842.85
+ORD0014,2025-06-11,C069,Vikash Patel,Tablet,Technology,West,4,100800.0,0.1,14922.36
+ORD0015,2025-03-13,C102,Priya Gupta,Backpack,Accessories,Central,3,6270.0,0.05,1883.62
+ORD0016,2025-07-24,C138,Ayesha Mehta,Notebook,Office Supplies,South,7,3150.0,0.1,895.57
+ORD0017,2025-01-25,C131,Karan Mehta,Webcam,Technology,South,2,5600.0,0.2,1454.0
+ORD0018,2025-02-02,C161,Rahul Yadav,Keyboard,Technology,Central,7,11340.0,0.1,3597.56
+ORD0019,2025-01-06,C120,Meena Gupta,USB Hub,Technology,North,5,5400.0,0.1,1581.73
+ORD0020,2025-11-25,C175,Manish Yadav,External Hard Drive,Technology,East,5,26000.0,0.2,4708.78
+ORD0021,2025-05-15,C112,Simran Gupta,Keyboard,Technology,South,8,14400,0,5162.41
+ORD0022,2025-11-24,C130,Pooja Mehta,Monitor,Technology,South,5,72000.0,0.2,13146.46
+ORD0023,2025-09-29,C040,Meena Verma,Office Chair,Furniture,Central,3,16200.0,0.1,3956.23
+ORD0024,2025-07-05,C083,Amit Kumar,Webcam,Technology,East,1,3500,0,954.54
+ORD0025,2025-02-10,C062,Priya Patel,Smartphone,Technology,West,4,86400.0,0.1,16174.09
+ORD0026,2025-12-04,C209,Vikash Malhotra,Tablet,Technology,Central,3,82320.0,0.02,13109.11
+ORD0027,2025-10-04,C043,Amit Singh,Notebook,Office Supplies,South,7,3430.0,0.02,1066.63
+ORD0028,2025-11-29,C183,Amit Joshi,Pen Set,Office Supplies,Central,7,1785.0,0.15,554.57
+ORD0029,2025-02-02,C116,Kavya Gupta,Monitor,Technology,Central,4,70560.0,0.02,13287.31
+ORD0030,2025-02-06,C142,Priya Shah,Printer,Office Supplies,North,4,48000,0,10332.55
+ORD0031,2025-06-19,C059,Suresh Singh,Tablet,Technology,South,1,22400.0,0.2,3066.02
+ORD0032,2025-03-09,C072,Simran Patel,Webcam,Technology,Central,4,12600.0,0.1,3278.65
+ORD0033,2025-08-31,C148,Anjali Shah,Webcam,Technology,South,4,11200.0,0.2,2877.12
+ORD0034,2025-08-05,C025,Rohit Verma,Monitor,Technology,North,7,119700.0,0.05,22620.27
+ORD0035,2025-06-23,C173,Aditya Yadav,Monitor,Technology,North,1,16560.0,0.08,3318.33
+ORD0036,2025-08-18,C064,Neha Patel,Mouse,Technology,South,4,3240.0,0.1,980.92
+ORD0037,2025-02-08,C072,Simran Patel,Backpack,Accessories,Central,4,7040.0,0.2,2074.52
+ORD0038,2025-05-02,C026,Sneha Verma,Smartphone,Technology,West,1,24000,0,4733.05
+ORD0039,2025-03-26,C124,Neha Mehta,Mouse,Technology,West,7,6300,0,2059.33
+ORD0040,2025-12-23,C068,Anjali Patel,Backpack,Accessories,Central,5,10120.0,0.08,3406.1
+ORD0041,2025-06-01,C170,Pooja Yadav,Webcam,Technology,North,3,10290.0,0.02,2510.55
+ORD0042,2025-06-10,C149,Vikash Shah,External Hard Drive,Technology,Central,1,5525.0,0.15,964.14
+ORD0043,2025-09-18,C123,Amit Mehta,USB Hub,Technology,South,3,3600,0,979.46
+ORD0044,2025-05-01,C018,Ayesha Sharma,Calculator,Office Supplies,Central,2,1360.0,0.15,398.55
+ORD0045,2025-02-11,C064,Neha Patel,Desk Organizer,Office Supplies,Central,1,630.0,0.1,189.66
+ORD0046,2025-04-15,C145,Rohit Shah,USB Hub,Technology,East,6,6840.0,0.05,2025.78
+ORD0047,2025-12-10,C062,Priya Patel,Notebook,Office Supplies,West,7,3430.0,0.02,1048.19
+ORD0048,2025-11-15,C081,Rahul Kumar,Tablet,Technology,North,1,25760.0,0.08,4408.89
+ORD0049,2025-05-16,C019,Suresh Sharma,External Hard Drive,Technology,East,4,23400.0,0.1,4244.2
+ORD0050,2025-05-26,C226,Sneha Kapoor,Tablet,Technology,Central,4,106400.0,0.05,15889.31
+ORD0051,2025-10-11,C181,Rahul Joshi,Pen Set,Office Supplies,North,1,255.0,0.15,78.04
+ORD0052,2025-02-24,C241,Rahul Mishra,Headphones,Technology,South,5,15000,0,5193.93
+ORD0053,2025-06-25,C070,Pooja Patel,Pen Set,Office Supplies,East,4,1020.0,0.15,306.03
+ORD0054,2025-01-27,C130,Pooja Mehta,Webcam,Technology,West,5,14000.0,0.2,3081.45
+ORD0055,2025-06-20,C213,Aditya Malhotra,Notebook,Office Supplies,East,1,500,0,156.51
+ORD0056,2025-01-05,C042,Priya Singh,Backpack,Accessories,South,7,13860.0,0.1,3983.21
+ORD0057,2025-10-10,C140,Meena Mehta,Smartphone,Technology,South,6,129600.0,0.1,24560.85
+ORD0058,2025-01-21,C011,Karan Sharma,Pen Set,Office Supplies,South,6,1440.0,0.2,488.3
+ORD0059,2025-10-14,C175,Manish Yadav,Printer,Office Supplies,West,2,22800.0,0.05,4994.81
+ORD0060,2025-03-25,C250,Pooja Mishra,Calculator,Office Supplies,South,3,2352.0,0.02,788.39
+ORD0061,2025-06-20,C226,Sneha Kapoor,Table Lamp,Furniture,West,1,1764.0,0.02,510.09
+ORD0062,2025-12-26,C206,Sneha Malhotra,Printer,Office Supplies,North,5,58800.0,0.02,11403.69
+ORD0063,2025-08-24,C220,Meena Malhotra,Webcam,Technology,South,4,13720.0,0.02,3423.4
+ORD0064,2025-06-18,C058,Ayesha Singh,Laptop,Technology,North,4,202400.0,0.08,31124.75
+ORD0065,2025-09-18,C248,Anjali Mishra,Notebook,Office Supplies,Central,6,2550.0,0.15,716.8
+ORD0066,2025-04-02,C085,Rohit Kumar,Laptop,Technology,East,2,104500.0,0.05,17107.1
+ORD0067,2025-06-10,C010,Pooja Sharma,Monitor,Technology,Central,7,119700.0,0.05,22719.41
+ORD0068,2025-01-23,C030,Pooja Verma,Bookshelf,Furniture,North,4,26600.0,0.05,6213.8
+ORD0069,2025-08-09,C134,Riya Mehta,External Hard Drive,Technology,East,4,24700.0,0.05,4517.22
+ORD0070,2025-06-03,C160,Meena Shah,Desk,Furniture,West,2,13600.0,0.15,2929.1
+ORD0071,2025-03-07,C084,Neha Kumar,Bookshelf,Furniture,West,5,31500.0,0.1,6605.56
+ORD0072,2025-10-08,C174,Riya Yadav,Keyboard,Technology,East,5,8280.0,0.08,2860.19
+ORD0073,2025-10-24,C074,Riya Patel,Mouse,Technology,East,7,5040.0,0.2,1610.84
+ORD0074,2025-04-20,C120,Meena Gupta,Backpack,Accessories,South,8,14960.0,0.15,4560.01
+ORD0075,2025-12-06,C169,Vikash Yadav,Tablet,Technology,East,5,126000.0,0.1,20166.09
+ORD0076,2025-04-12,C024,Neha Verma,Printer,Office Supplies,North,5,58800.0,0.02,11482.21
+ORD0077,2025-08-01,C063,Amit Patel,Webcam,Technology,Central,2,6440.0,0.08,1731.21
+ORD0078,2025-05-05,C050,Pooja Singh,Bookshelf,Furniture,North,8,51520.0,0.08,10798.23
+ORD0079,2025-04-01,C229,Vikash Kapoor,Monitor,Technology,Central,7,123480.0,0.02,25079.61
+ORD0080,2025-03-04,C119,Suresh Gupta,Smartphone,Technology,West,4,76800.0,0.2,14860.68
+ORD0081,2025-08-15,C171,Karan Yadav,USB Hub,Technology,Central,6,5760.0,0.2,1612.85
+ORD0082,2025-09-01,C110,Pooja Gupta,External Hard Drive,Technology,South,8,50960.0,0.02,10056.92
+ORD0083,2025-05-03,C216,Kavya Malhotra,Notebook,Office Supplies,North,8,3400.0,0.15,931.72
+ORD0084,2025-06-21,C183,Amit Joshi,Pen Set,Office Supplies,Central,4,1140.0,0.05,363.46
+ORD0085,2025-07-16,C021,Rahul Verma,Headphones,Technology,South,3,8820.0,0.02,3018.1
+ORD0086,2025-10-05,C017,Nikhil Sharma,Table Lamp,Furniture,North,7,11970.0,0.05,3262.17
+ORD0087,2025-10-27,C053,Aditya Singh,Table Lamp,Furniture,North,7,10080.0,0.2,2874.79
+ORD0088,2025-01-04,C220,Meena Malhotra,Desk Organizer,Office Supplies,East,7,4508.0,0.08,1495.09
+ORD0089,2025-10-07,C193,Aditya Joshi,Bookshelf,Furniture,South,7,44100.0,0.1,10337.36
+ORD0090,2025-09-06,C125,Rohit Mehta,Printer,Office Supplies,East,5,55200.0,0.08,10308.05
+ORD0091,2025-08-28,C172,Simran Yadav,Bookshelf,Furniture,Central,3,16800.0,0.2,3922.21
+ORD0092,2025-10-16,C137,Nikhil Mehta,Laptop,Technology,North,7,346500.0,0.1,56768.04
+ORD0093,2025-08-25,C165,Rohit Yadav,Table Lamp,Furniture,East,3,4320.0,0.2,1048.61
+ORD0094,2025-06-17,C098,Ayesha Kumar,Desk,Furniture,West,4,29440.0,0.08,6292.8
+ORD0095,2025-02-11,C072,Simran Patel,Table Lamp,Furniture,Central,5,7200.0,0.2,1863.12
+ORD0096,2025-02-05,C014,Riya Sharma,Office Chair,Furniture,North,4,20400.0,0.15,4801.98
+ORD0097,2025-01-11,C194,Riya Joshi,Laptop,Technology,South,4,215600.0,0.02,35798.89
+ORD0098,2025-04-22,C033,Aditya Verma,Webcam,Technology,East,2,6300.0,0.1,1564.93
+ORD0099,2025-11-07,C197,Nikhil Joshi,Office Chair,Furniture,North,3,16200.0,0.1,3986.63
+ORD0100,2025-10-24,C200,Meena Joshi,Keyboard,Technology,East,5,9000,0,2772.33
+ORD0101,2025-04-12,C148,Anjali Shah,Bookshelf,Furniture,South,7,41650.0,0.15,8340.19
+ORD0102,2025-10-17,C027,Arjun Verma,Pen Set,Office Supplies,East,2,480.0,0.2,159.04
+ORD0103,2025-09-17,C137,Nikhil Mehta,Table Lamp,Furniture,North,6,10800,0,3070.82
+ORD0104,2025-08-10,C218,Ayesha Malhotra,Table Lamp,Furniture,West,8,14400,0,4294.9
+ORD0105,2025-09-25,C182,Priya Joshi,Headphones,Technology,East,7,20580.0,0.02,7346.33
+ORD0106,2025-08-12,C158,Ayesha Shah,External Hard Drive,Technology,Central,8,47840.0,0.08,9902.02
+ORD0107,2025-02-14,C069,Vikash Patel,Desk,Furniture,West,4,25600.0,0.2,5145.33
+ORD0108,2025-01-15,C063,Amit Patel,Backpack,Accessories,East,7,14630.0,0.05,4589.29
+ORD0109,2025-05-13,C047,Arjun Singh,Webcam,Technology,Central,4,13300.0,0.05,3283.04
+ORD0110,2025-04-08,C180,Meena Yadav,Notebook,Office Supplies,West,1,450.0,0.1,121.3
+ORD0111,2025-09-01,C126,Sneha Mehta,External Hard Drive,Technology,West,4,22100.0,0.15,4346.39
+ORD0112,2025-04-24,C115,Manish Gupta,Laptop,Technology,South,2,104500.0,0.05,16599.68
+ORD0113,2025-10-11,C079,Suresh Patel,Desk Organizer,Office Supplies,West,6,3864.0,0.08,1194.53
+ORD0114,2025-12-26,C191,Karan Joshi,External Hard Drive,Technology,East,6,37050.0,0.05,7254.77
+ORD0115,2025-04-09,C065,Rohit Patel,Printer,Office Supplies,Central,2,20400.0,0.15,3914.94
+ORD0116,2025-09-05,C244,Neha Mishra,Keyboard,Technology,Central,4,7056.0,0.02,2254.18
+ORD0117,2025-04-10,C195,Manish Joshi,USB Hub,Technology,East,5,6000,0,1692.95
+ORD0118,2025-10-01,C046,Sneha Singh,Pen Set,Office Supplies,North,1,255.0,0.15,75.28
+ORD0119,2025-03-06,C250,Pooja Mishra,Smartphone,Technology,West,5,102000.0,0.15,20863.98
+ORD0120,2025-09-03,C027,Arjun Verma,Laptop,Technology,South,5,253000.0,0.08,40071.38
+ORD0121,2025-09-02,C248,Anjali Mishra,Smartphone,Technology,North,5,96000.0,0.2,17206.35
+ORD0122,2025-11-19,C103,Amit Gupta,Webcam,Technology,South,2,6300.0,0.1,1628.7
+ORD0123,2025-05-08,C039,Suresh Verma,Desk Organizer,Office Supplies,West,5,3500,0,1032.85
+ORD0124,2025-09-25,C156,Kavya Shah,Calculator,Office Supplies,West,4,2560.0,0.2,730.86
+ORD0125,2025-10-19,C077,Nikhil Patel,Desk Organizer,Office Supplies,Central,7,4655.0,0.05,1473.57
+ORD0126,2025-04-19,C246,Sneha Mishra,Monitor,Technology,North,4,61200.0,0.15,10847.81
+ORD0127,2025-02-08,C041,Rahul Singh,Printer,Office Supplies,West,3,32400.0,0.1,6150.34
+ORD0128,2025-01-17,C116,Kavya Gupta,Calculator,Office Supplies,East,8,6080.0,0.05,1789.07
+ORD0129,2025-04-30,C180,Meena Yadav,Backpack,Accessories,Central,2,3740.0,0.15,1232.46
+ORD0130,2025-10-06,C170,Pooja Yadav,Mouse,Technology,South,7,6300,0,2007.54
+ORD0131,2025-01-31,C233,Aditya Kapoor,Notebook,Office Supplies,East,3,1500,0,425.95
+ORD0132,2025-03-05,C153,Aditya Shah,Desk Organizer,Office Supplies,East,5,3220.0,0.08,984.49
+ORD0133,2025-10-04,C180,Meena Yadav,Bookshelf,Furniture,North,5,31500.0,0.1,6992.06
+ORD0134,2025-06-15,C154,Riya Shah,Smartphone,Technology,North,7,142800.0,0.15,29018.3
+ORD0135,2025-12-11,C024,Neha Verma,Printer,Office Supplies,Central,1,9600.0,0.2,2003.57
+ORD0136,2025-11-30,C011,Karan Sharma,Keyboard,Technology,East,8,12960.0,0.1,4155.63
+ORD0137,2025-09-09,C047,Arjun Singh,Desk Organizer,Office Supplies,West,7,4165.0,0.15,1366.83
+ORD0138,2025-12-10,C090,Pooja Kumar,Table Lamp,Furniture,South,6,10260.0,0.05,2622.71
+ORD0139,2025-12-06,C085,Rohit Kumar,Table Lamp,Furniture,Central,8,13680.0,0.05,4034.92
+ORD0140,2025-05-10,C010,Pooja Sharma,Backpack,Accessories,West,2,4180.0,0.05,1272.91
+ORD0141,2025-10-05,C222,Priya Kapoor,USB Hub,Technology,North,1,1020.0,0.15,282.25
+ORD0142,2025-09-13,C049,Vikash Singh,USB Hub,Technology,North,6,6480.0,0.1,1879.64
+ORD0143,2025-08-13,C053,Aditya Singh,Notebook,Office Supplies,West,3,1425.0,0.05,449.3
+ORD0144,2025-03-23,C032,Simran Verma,Laptop,Technology,North,4,187000.0,0.15,28159.92
+ORD0145,2025-02-28,C142,Priya Shah,Table Lamp,Furniture,North,2,3528.0,0.02,968.83
+ORD0146,2025-05-30,C166,Sneha Yadav,Headphones,Technology,East,8,20400.0,0.15,6511.36
+ORD0147,2025-08-22,C107,Arjun Gupta,Webcam,Technology,West,8,27440.0,0.02,7079.06
+ORD0148,2025-02-05,C049,Vikash Singh,Calculator,Office Supplies,West,3,1920.0,0.2,535.65
+ORD0149,2025-01-02,C088,Anjali Kumar,USB Hub,Technology,East,5,4800.0,0.2,1251.69
+ORD0150,2025-03-18,C215,Manish Malhotra,Desk Organizer,Office Supplies,West,8,4480.0,0.2,1304.95
+ORD0151,2025-06-14,C089,Vikash Kumar,Desk,Furniture,South,7,51520.0,0.08,12085.12
+ORD0152,2025-07-30,C147,Arjun Shah,Bookshelf,Furniture,West,4,22400.0,0.2,4332.69
+ORD0153,2025-11-30,C181,Rahul Joshi,Bookshelf,Furniture,West,7,41650.0,0.15,9961.63
+ORD0154,2025-10-30,C247,Arjun Mishra,Smartphone,Technology,North,3,64800.0,0.1,12721.79
+ORD0155,2025-08-22,C224,Neha Kapoor,Backpack,Accessories,South,2,3960.0,0.1,1116.44
+ORD0156,2025-05-16,C105,Rohit Gupta,Headphones,Technology,West,2,5520.0,0.08,1748.34
+ORD0157,2025-12-12,C167,Arjun Yadav,Tablet,Technology,West,6,134400.0,0.2,21802.36
+ORD0158,2025-10-05,C245,Rohit Mishra,Desk,Furniture,North,8,51200.0,0.2,9730.71
+ORD0159,2025-02-16,C061,Rahul Patel,Pen Set,Office Supplies,North,4,1020.0,0.15,320.77
+ORD0160,2025-12-22,C195,Manish Joshi,Monitor,Technology,North,8,141120.0,0.02,26401.61
+ORD0161,2025-07-03,C012,Simran Sharma,Desk,Furniture,South,1,7600.0,0.05,1651.45
+ORD0162,2025-12-16,C063,Amit Patel,USB Hub,Technology,South,7,7560.0,0.1,2258.42
+ORD0163,2025-12-16,C045,Rohit Singh,Tablet,Technology,Central,7,176400.0,0.1,26256.28
+ORD0164,2025-05-11,C037,Nikhil Verma,Printer,Office Supplies,North,8,81600.0,0.15,16120.63
+ORD0165,2025-10-07,C231,Karan Kapoor,Backpack,Accessories,West,5,9350.0,0.15,2652.22
+ORD0166,2025-08-06,C242,Priya Mishra,Office Chair,Furniture,West,5,25500.0,0.15,5900.65
+ORD0167,2025-09-05,C217,Nikhil Malhotra,Pen Set,Office Supplies,West,4,1104.0,0.08,334.83
+ORD0168,2025-06-01,C147,Arjun Shah,Office Chair,Furniture,West,5,25500.0,0.15,5152.07
+ORD0169,2025-09-12,C071,Karan Patel,Laptop,Technology,East,1,49500.0,0.1,8354.29
+ORD0170,2025-11-22,C199,Suresh Joshi,Printer,Office Supplies,East,6,70560.0,0.02,13881.32
+ORD0171,2025-11-27,C174,Riya Yadav,Headphones,Technology,West,2,5100.0,0.15,1477.62
+ORD0172,2025-03-09,C009,Vikash Sharma,Desk Organizer,Office Supplies,East,6,3570.0,0.15,985.94
+ORD0173,2025-03-09,C084,Neha Kumar,Table Lamp,Furniture,East,3,5292.0,0.02,1531.26
+ORD0174,2025-03-26,C136,Kavya Mehta,USB Hub,Technology,West,5,4800.0,0.2,1244.45
+ORD0175,2025-02-28,C248,Anjali Mishra,Pen Set,Office Supplies,North,6,1440.0,0.2,446.96
+ORD0176,2025-10-13,C037,Nikhil Verma,Printer,Office Supplies,West,7,67200.0,0.2,12749.17
+ORD0177,2025-07-08,C004,Neha Sharma,Notebook,Office Supplies,East,2,920.0,0.08,278.3
+ORD0178,2025-12-12,C150,Pooja Shah,Bookshelf,Furniture,North,6,42000,0,9191.15
+ORD0179,2025-04-24,C159,Suresh Shah,External Hard Drive,Technology,West,6,35100.0,0.1,7009.27
+ORD0180,2025-03-13,C233,Aditya Kapoor,Pen Set,Office Supplies,North,7,2100,0,649.08
+ORD0181,2025-05-01,C078,Ayesha Patel,Webcam,Technology,South,2,7000,0,1911.53
+ORD0182,2025-12-23,C100,Meena Kumar,Backpack,Accessories,West,6,11220.0,0.15,3712.19
+ORD0183,2025-02-20,C151,Karan Shah,Headphones,Technology,Central,7,17850.0,0.15,6061.24
+ORD0184,2025-07-09,C105,Rohit Gupta,Notebook,Office Supplies,West,1,425.0,0.15,115.09
+ORD0185,2025-12-18,C244,Neha Mishra,Printer,Office Supplies,East,6,72000,0,14681.6
+ORD0186,2025-03-04,C016,Kavya Sharma,Bookshelf,Furniture,West,5,34300.0,0.02,8374.73
+ORD0187,2025-06-20,C024,Neha Verma,Mouse,Technology,South,1,900,0,287.69
+ORD0188,2025-10-11,C202,Priya Malhotra,Desk Organizer,Office Supplies,South,4,2800,0,838.77
+ORD0189,2025-03-17,C209,Vikash Malhotra,Printer,Office Supplies,Central,6,57600.0,0.2,11942.75
+ORD0190,2025-10-04,C001,Rahul Sharma,Notebook,Office Supplies,South,3,1470.0,0.02,420.8
+ORD0191,2025-07-03,C029,Vikash Verma,Laptop,Technology,South,3,165000,0,28252.73
+ORD0192,2025-05-16,C151,Karan Shah,Desk,Furniture,West,1,7840.0,0.02,1626.09
+ORD0193,2025-08-18,C135,Manish Mehta,Monitor,Technology,Central,2,33120.0,0.08,6611.38
+ORD0194,2025-04-24,C152,Simran Shah,Monitor,Technology,North,8,129600.0,0.1,26495.46
+ORD0195,2025-11-26,C187,Arjun Joshi,USB Hub,Technology,North,5,5520.0,0.08,1704.93
+ORD0196,2025-02-25,C123,Amit Mehta,Bookshelf,Furniture,West,7,41650.0,0.15,9082.56
+ORD0197,2025-03-17,C019,Suresh Sharma,Tablet,Technology,East,6,151200.0,0.1,21748.75
+ORD0198,2025-11-02,C160,Meena Shah,Desk Organizer,Office Supplies,West,6,3864.0,0.08,1194.45
+ORD0199,2025-12-26,C130,Pooja Mehta,Calculator,Office Supplies,Central,7,5600,0,1642.04
+ORD0200,2025-04-27,C185,Rohit Joshi,Mouse,Technology,West,7,5796.0,0.08,1861.04
+ORD0201,2025-08-07,C103,Amit Gupta,Table Lamp,Furniture,East,2,3420.0,0.05,907.5
+ORD0202,2025-02-16,C096,Kavya Kumar,Headphones,Technology,North,8,24000,0,8424.67
+ORD0203,2025-03-08,C111,Karan Gupta,Monitor,Technology,Central,6,86400.0,0.2,15939.41
+ORD0204,2025-03-04,C245,Rohit Mishra,External Hard Drive,Technology,West,6,33150.0,0.15,6226.19
+ORD0205,2025-06-09,C223,Amit Kapoor,Smartphone,Technology,Central,5,108000.0,0.1,21281.58
+ORD0206,2025-09-04,C130,Pooja Mehta,Mouse,Technology,North,3,2295.0,0.15,691.54
+ORD0207,2025-05-23,C090,Pooja Kumar,External Hard Drive,Technology,West,6,39000,0,7892.48
+ORD0208,2025-12-03,C217,Nikhil Malhotra,External Hard Drive,Technology,East,1,5850.0,0.1,1206.03
+ORD0209,2025-06-08,C008,Anjali Sharma,Keyboard,Technology,East,5,7650.0,0.15,2639.84
+ORD0210,2025-12-03,C002,Priya Sharma,Keyboard,Technology,South,3,4860.0,0.1,1546.43
+ORD0211,2025-09-29,C190,Pooja Joshi,Laptop,Technology,West,2,93500.0,0.15,13804.58
+ORD0212,2025-06-09,C117,Nikhil Gupta,Desk,Furniture,Central,3,22800.0,0.05,5253.96
+ORD0213,2025-03-22,C153,Aditya Shah,Tablet,Technology,North,1,27440.0,0.02,4570.69
+ORD0214,2025-12-05,C173,Aditya Yadav,Tablet,Technology,Central,5,128800.0,0.08,19976.45
+ORD0215,2025-09-20,C114,Riya Gupta,Table Lamp,Furniture,West,5,8820.0,0.02,2283.03
+ORD0216,2025-12-08,C029,Vikash Verma,Pen Set,Office Supplies,South,8,2160.0,0.1,675.48
+ORD0217,2025-04-15,C102,Priya Gupta,Calculator,Office Supplies,South,1,800,0,242.06
+ORD0218,2025-06-17,C197,Nikhil Joshi,Headphones,Technology,West,5,14250.0,0.05,4383.49
+ORD0219,2025-07-14,C192,Simran Joshi,Table Lamp,Furniture,South,3,5292.0,0.02,1470.32
+ORD0220,2025-07-23,C129,Vikash Mehta,External Hard Drive,Technology,North,6,39000,0,8251.48
+ORD0221,2025-06-10,C112,Simran Gupta,Laptop,Technology,Central,8,440000,0,72872.75
+ORD0222,2025-07-27,C104,Neha Gupta,Table Lamp,Furniture,East,5,9000,0,2308.34
+ORD0223,2025-12-20,C044,Neha Singh,Calculator,Office Supplies,North,8,5120.0,0.2,1634.33
+ORD0224,2025-10-29,C112,Simran Gupta,Monitor,Technology,North,4,66240.0,0.08,12377.01
+ORD0225,2025-06-20,C102,Priya Gupta,Pen Set,Office Supplies,North,6,1764.0,0.02,611.8
+ORD0226,2025-06-28,C131,Karan Mehta,Monitor,Technology,South,4,57600.0,0.2,10166.46
+ORD0227,2025-04-12,C061,Rahul Patel,Monitor,Technology,South,3,51300.0,0.05,9295.23
+ORD0228,2025-11-18,C195,Manish Joshi,Tablet,Technology,Central,3,67200.0,0.2,10112.29
+ORD0229,2025-10-17,C195,Manish Joshi,Desk Organizer,Office Supplies,Central,8,4760.0,0.15,1470.27
+ORD0230,2025-02-04,C083,Amit Kumar,Desk,Furniture,East,3,22080.0,0.08,4833.15
+ORD0231,2025-09-17,C204,Neha Malhotra,Notebook,Office Supplies,West,1,475.0,0.05,130.41
+ORD0232,2025-05-27,C116,Kavya Gupta,Smartphone,Technology,North,1,22800.0,0.05,4348.88
+ORD0233,2025-10-25,C158,Ayesha Shah,Calculator,Office Supplies,North,7,5152.0,0.08,1590.21
+ORD0234,2025-11-06,C116,Kavya Gupta,Desk Organizer,Office Supplies,South,4,2660.0,0.05,821.57
+ORD0235,2025-06-25,C246,Sneha Mishra,Smartphone,Technology,North,8,192000,0,43087.27
+ORD0236,2025-12-29,C130,Pooja Mehta,Keyboard,Technology,West,1,1764.0,0.02,579.02
+ORD0237,2025-07-10,C135,Manish Mehta,USB Hub,Technology,West,3,3420.0,0.05,1054.59
+ORD0238,2025-11-20,C105,Rohit Gupta,Desk,Furniture,North,1,6400.0,0.2,1392.42
+ORD0239,2025-05-10,C085,Rohit Kumar,Monitor,Technology,Central,7,119700.0,0.05,23845.79
+ORD0240,2025-10-26,C224,Neha Kapoor,Headphones,Technology,East,6,18000,0,6157.07
+ORD0241,2025-12-29,C080,Meena Patel,Bookshelf,Furniture,East,3,18900.0,0.1,4536.39
+ORD0242,2025-03-07,C144,Neha Shah,Bookshelf,Furniture,Central,6,33600.0,0.2,7461.3
+ORD0243,2025-07-05,C024,Neha Verma,Table Lamp,Furniture,South,6,10800,0,2908.26
+ORD0244,2025-03-12,C088,Anjali Kumar,Webcam,Technology,East,4,13720.0,0.02,3311.25
+ORD0245,2025-06-22,C217,Nikhil Malhotra,Monitor,Technology,Central,1,15300.0,0.15,3054.53
+ORD0246,2025-03-25,C034,Riya Verma,Calculator,Office Supplies,Central,7,5488.0,0.02,1616.89
+ORD0247,2025-07-30,C208,Anjali Malhotra,Keyboard,Technology,South,8,14400,0,4695.78
+ORD0248,2025-08-18,C249,Vikash Mishra,Backpack,Accessories,South,5,8800.0,0.2,2476.04
+ORD0249,2025-12-14,C080,Meena Patel,Webcam,Technology,West,4,13300.0,0.05,3632.55
+ORD0250,2025-09-28,C119,Suresh Gupta,Pen Set,Office Supplies,South,7,1890.0,0.1,603.39
+ORD0251,2025-05-09,C210,Pooja Malhotra,Mouse,Technology,West,3,2160.0,0.2,610.51
+ORD0252,2025-09-22,C224,Neha Kapoor,Office Chair,Furniture,East,2,10200.0,0.15,2432.32
+ORD0253,2025-09-20,C022,Priya Verma,Keyboard,Technology,West,5,8280.0,0.08,2530.73
+ORD0254,2025-01-14,C024,Neha Verma,Printer,Office Supplies,West,8,91200.0,0.05,18477.67
+ORD0255,2025-02-11,C129,Vikash Mehta,Office Chair,Furniture,North,4,22080.0,0.08,4927.92
+ORD0256,2025-03-16,C082,Priya Kumar,Monitor,Technology,East,6,86400.0,0.2,14532.33
+ORD0257,2025-12-28,C235,Manish Kapoor,Webcam,Technology,Central,3,8400.0,0.2,2011.66
+ORD0258,2025-04-21,C002,Priya Sharma,Tablet,Technology,Central,1,26600.0,0.05,4459.92
+ORD0259,2025-05-28,C241,Rahul Mishra,Calculator,Office Supplies,North,7,5600,0,1676.54
+ORD0260,2025-11-15,C013,Aditya Sharma,Printer,Office Supplies,North,7,71400.0,0.15,14098.67
+ORD0261,2025-09-21,C215,Manish Malhotra,Webcam,Technology,South,1,2975.0,0.15,742.06
+ORD0262,2025-06-30,C075,Manish Patel,Table Lamp,Furniture,West,1,1620.0,0.1,416.75
+ORD0263,2025-09-27,C048,Anjali Singh,Tablet,Technology,Central,6,168000,0,27190.43
+ORD0264,2025-08-29,C142,Priya Shah,Laptop,Technology,West,7,308000.0,0.2,42648.83
+ORD0265,2025-02-04,C096,Kavya Kumar,Notebook,Office Supplies,North,1,475.0,0.05,136.9
+ORD0266,2025-01-23,C198,Ayesha Joshi,Desk Organizer,Office Supplies,East,6,4116.0,0.02,1255.81
+ORD0267,2025-09-03,C209,Vikash Malhotra,Keyboard,Technology,South,8,12240.0,0.15,4001.17
+ORD0268,2025-04-14,C017,Nikhil Sharma,Backpack,Accessories,South,1,2090.0,0.05,605.16
+ORD0269,2025-09-21,C227,Arjun Kapoor,Smartphone,Technology,Central,6,136800.0,0.05,27636.48
+ORD0270,2025-11-28,C122,Priya Mehta,Notebook,Office Supplies,East,1,400.0,0.2,105.09
+ORD0271,2025-03-05,C221,Rahul Kapoor,Smartphone,Technology,West,6,136800.0,0.05,29561.84
+ORD0272,2025-06-23,C228,Anjali Kapoor,Bookshelf,Furniture,West,8,51520.0,0.08,12490.19
+ORD0273,2025-09-23,C178,Ayesha Yadav,Webcam,Technology,North,6,16800.0,0.2,3848.45
+ORD0274,2025-11-05,C187,Arjun Joshi,Table Lamp,Furniture,South,2,3312.0,0.08,979.22
+ORD0275,2025-02-10,C140,Meena Mehta,Pen Set,Office Supplies,East,6,1800,0,583.48
+ORD0276,2025-12-20,C079,Suresh Patel,Backpack,Accessories,West,7,15092.0,0.02,4733.52
+ORD0277,2025-11-24,C011,Karan Sharma,Office Chair,Furniture,North,7,39900.0,0.05,9940.18
+ORD0278,2025-12-14,C020,Meena Sharma,Bookshelf,Furniture,North,6,37800.0,0.1,7877.74
+ORD0279,2025-03-06,C037,Nikhil Verma,Calculator,Office Supplies,East,8,6400,0,1861.51
+ORD0280,2025-03-20,C093,Aditya Kumar,Bookshelf,Furniture,East,1,6300.0,0.1,1445.84
+ORD0281,2025-03-12,C096,Kavya Kumar,Backpack,Accessories,West,2,3960.0,0.1,1231.6
+ORD0282,2025-01-14,C081,Rahul Kumar,Notebook,Office Supplies,West,4,2000,0,622.62
+ORD0283,2025-05-14,C133,Aditya Mehta,Bookshelf,Furniture,South,2,13300.0,0.05,3104.47
+ORD0284,2025-03-04,C157,Nikhil Shah,Pen Set,Office Supplies,North,8,2352.0,0.02,733.37
+ORD0285,2025-12-16,C116,Kavya Gupta,Keyboard,Technology,East,8,14400,0,5159.09
+ORD0286,2025-10-05,C171,Karan Yadav,Office Chair,Furniture,East,2,10800.0,0.1,2356.08
+ORD0287,2025-07-05,C218,Ayesha Malhotra,Keyboard,Technology,North,3,4320.0,0.2,1352.52
+ORD0288,2025-09-10,C052,Simran Singh,Headphones,Technology,Central,4,9600.0,0.2,2696.82
+ORD0289,2025-10-10,C147,Arjun Shah,Office Chair,Furniture,North,8,38400.0,0.2,7736.55
+ORD0290,2025-09-03,C017,Nikhil Sharma,Pen Set,Office Supplies,West,7,1785.0,0.15,571.63
+ORD0291,2025-06-12,C211,Karan Malhotra,Desk Organizer,Office Supplies,West,2,1372.0,0.02,439.02
+ORD0292,2025-10-10,C120,Meena Gupta,USB Hub,Technology,South,6,7056.0,0.02,2094.47
+ORD0293,2025-01-29,C197,Nikhil Joshi,Headphones,Technology,Central,7,18900.0,0.1,6496.16
+ORD0294,2025-06-15,C040,Meena Verma,Pen Set,Office Supplies,South,3,882.0,0.02,313.37
+ORD0295,2025-02-10,C089,Vikash Kumar,USB Hub,Technology,Central,5,4800.0,0.2,1242.67
+ORD0296,2025-10-01,C071,Karan Patel,Headphones,Technology,South,5,13500.0,0.1,4049.74
+ORD0297,2025-12-04,C152,Simran Shah,Desk Organizer,Office Supplies,Central,3,2058.0,0.02,656.65
+ORD0298,2025-01-15,C087,Arjun Kumar,Desk Organizer,Office Supplies,Central,1,560.0,0.2,150.26
+ORD0299,2025-11-24,C068,Anjali Patel,Mouse,Technology,Central,7,5670.0,0.1,1679.68
+ORD0300,2025-12-17,C075,Manish Patel,Pen Set,Office Supplies,West,8,2352.0,0.02,767.98
+ORD0301,2025-08-01,C019,Suresh Sharma,Smartphone,Technology,South,3,66240.0,0.08,13462.2
+ORD0302,2025-06-13,C088,Anjali Kumar,Calculator,Office Supplies,East,3,2280.0,0.05,731.23
+ORD0303,2025-07-09,C250,Pooja Mishra,Bookshelf,Furniture,North,3,16800.0,0.2,3611.5
+ORD0304,2025-05-17,C082,Priya Kumar,Printer,Office Supplies,South,8,96000,0,19838.71
+ORD0305,2025-11-12,C025,Rohit Verma,Smartphone,Technology,South,5,110400.0,0.08,22172.54
+ORD0306,2025-03-23,C209,Vikash Malhotra,Desk,Furniture,Central,6,47040.0,0.02,10527.0
+ORD0307,2025-01-12,C120,Meena Gupta,Webcam,Technology,West,5,16100.0,0.08,3754.84
+ORD0308,2025-10-26,C130,Pooja Mehta,Backpack,Accessories,North,4,8624.0,0.02,2664.1
+ORD0309,2025-10-02,C073,Aditya Patel,Webcam,Technology,North,8,26600.0,0.05,6183.42
+ORD0310,2025-07-07,C111,Karan Gupta,Headphones,Technology,East,5,12750.0,0.15,4273.59
+ORD0311,2025-10-15,C012,Simran Sharma,Bookshelf,Furniture,Central,1,6300.0,0.1,1321.83
+ORD0312,2025-08-19,C074,Riya Patel,Tablet,Technology,East,7,176400.0,0.1,28895.1
+ORD0313,2025-02-19,C212,Simran Malhotra,Calculator,Office Supplies,East,2,1568.0,0.02,479.01
+ORD0314,2025-11-05,C143,Amit Shah,Office Chair,Furniture,Central,3,17640.0,0.02,4101.13
+ORD0315,2025-06-20,C011,Karan Sharma,Smartphone,Technology,Central,1,23520.0,0.02,5118.17
+ORD0316,2025-11-10,C117,Nikhil Gupta,Headphones,Technology,West,3,8550.0,0.05,2725.39
+ORD0317,2025-09-18,C158,Ayesha Shah,Pen Set,Office Supplies,Central,6,1620.0,0.1,528.1
+ORD0318,2025-06-19,C077,Nikhil Patel,Webcam,Technology,West,1,3325.0,0.05,868.78
+ORD0319,2025-08-31,C150,Pooja Shah,Pen Set,Office Supplies,Central,1,270.0,0.1,83.75
+ORD0320,2025-09-03,C148,Anjali Shah,Printer,Office Supplies,Central,1,10800.0,0.1,2055.7
+ORD0321,2025-12-15,C199,Suresh Joshi,Bookshelf,Furniture,Central,3,16800.0,0.2,3402.01
+ORD0322,2025-08-14,C243,Amit Mishra,Monitor,Technology,South,4,72000,0,13582.67
+ORD0323,2025-11-10,C106,Sneha Gupta,Mouse,Technology,North,7,5670.0,0.1,1978.8
+ORD0324,2025-06-16,C181,Rahul Joshi,Headphones,Technology,West,4,10800.0,0.1,3818.8
+ORD0325,2025-08-24,C135,Manish Mehta,Bookshelf,Furniture,East,6,41160.0,0.02,9993.02
+ORD0326,2025-09-05,C140,Meena Mehta,Office Chair,Furniture,South,5,27000.0,0.1,5780.34
+ORD0327,2025-06-02,C072,Simran Patel,External Hard Drive,Technology,South,5,31850.0,0.02,6619.52
+ORD0328,2025-06-28,C177,Nikhil Yadav,Webcam,Technology,East,6,19320.0,0.08,4912.26
+ORD0329,2025-06-26,C074,Riya Patel,Monitor,Technology,South,7,115920.0,0.08,23832.07
+ORD0330,2025-02-10,C075,Manish Patel,Smartphone,Technology,West,5,102000.0,0.15,19697.95
+ORD0331,2025-04-14,C168,Anjali Yadav,Notebook,Office Supplies,East,8,3920.0,0.02,1232.97
+ORD0332,2025-02-25,C239,Suresh Kapoor,External Hard Drive,Technology,Central,5,31850.0,0.02,6457.8
+ORD0333,2025-09-29,C062,Priya Patel,Printer,Office Supplies,South,1,10200.0,0.15,1921.52
+ORD0334,2025-08-30,C014,Riya Sharma,Monitor,Technology,South,7,119700.0,0.05,21402.89
+ORD0335,2025-12-01,C002,Priya Sharma,External Hard Drive,Technology,West,3,17940.0,0.08,3781.46
+ORD0336,2025-05-27,C123,Amit Mehta,Mouse,Technology,North,5,4275.0,0.05,1441.27
+ORD0337,2025-01-20,C167,Arjun Yadav,Desk Organizer,Office Supplies,South,4,2520.0,0.1,828.18
+ORD0338,2025-07-23,C107,Arjun Gupta,Keyboard,Technology,South,1,1440.0,0.2,477.64
+ORD0339,2025-06-02,C240,Meena Kapoor,Pen Set,Office Supplies,North,1,300,0,101.09
+ORD0340,2025-11-25,C238,Ayesha Kapoor,Desk,Furniture,West,5,36800.0,0.08,8162.35
+ORD0341,2025-04-09,C228,Anjali Kapoor,Headphones,Technology,East,8,22800.0,0.05,7895.28
+ORD0342,2025-04-06,C042,Priya Singh,Backpack,Accessories,East,5,9350.0,0.15,2571.64
+ORD0343,2025-11-09,C203,Amit Malhotra,Pen Set,Office Supplies,West,4,1176.0,0.02,412.79
+ORD0344,2025-07-25,C212,Simran Malhotra,Table Lamp,Furniture,South,6,10800,0,3081.24
+ORD0345,2025-01-04,C036,Kavya Verma,Webcam,Technology,South,6,20580.0,0.02,5058.32
+ORD0346,2025-10-26,C115,Manish Gupta,Notebook,Office Supplies,North,6,2850.0,0.05,875.85
+ORD0347,2025-12-08,C067,Arjun Patel,Office Chair,Furniture,East,4,24000,0,5257.93
+ORD0348,2025-03-02,C041,Rahul Singh,Bookshelf,Furniture,East,5,29750.0,0.15,6677.55
+ORD0349,2025-03-10,C095,Manish Kumar,Calculator,Office Supplies,West,4,3136.0,0.02,971.51
+ORD0350,2025-12-26,C192,Simran Joshi,Calculator,Office Supplies,West,6,4416.0,0.08,1361.82
+ORD0351,2025-05-07,C194,Riya Joshi,External Hard Drive,Technology,Central,4,20800.0,0.2,4050.04
+ORD0352,2025-12-27,C224,Neha Kapoor,Tablet,Technology,Central,8,201600.0,0.1,30703.88
+ORD0353,2025-10-02,C029,Vikash Verma,Smartphone,Technology,East,4,86400.0,0.1,16379.53
+ORD0354,2025-12-15,C219,Suresh Malhotra,USB Hub,Technology,Central,8,9600,0,2668.02
+ORD0355,2025-01-29,C126,Sneha Mehta,Tablet,Technology,Central,8,179200.0,0.2,26731.77
+ORD0356,2025-08-25,C107,Arjun Gupta,Backpack,Accessories,East,1,1980.0,0.1,631.85
+ORD0357,2025-01-02,C186,Sneha Joshi,Laptop,Technology,Central,7,365750.0,0.05,61540.21
+ORD0358,2025-12-25,C019,Suresh Sharma,Smartphone,Technology,North,7,159600.0,0.05,30369.56
+ORD0359,2025-05-27,C240,Meena Kapoor,Tablet,Technology,South,8,224000,0,35475.07
+ORD0360,2025-08-18,C197,Nikhil Joshi,Table Lamp,Furniture,West,6,9936.0,0.08,2877.42
+ORD0361,2025-06-28,C097,Nikhil Kumar,Tablet,Technology,Central,3,71400.0,0.15,10145.0
+ORD0362,2025-04-25,C101,Rahul Gupta,USB Hub,Technology,North,3,3060.0,0.15,909.38
+ORD0363,2025-07-14,C077,Nikhil Patel,Backpack,Accessories,South,7,13860.0,0.1,4541.01
+ORD0364,2025-04-07,C118,Ayesha Gupta,Office Chair,Furniture,North,3,17100.0,0.05,4231.44
+ORD0365,2025-04-16,C009,Vikash Sharma,Table Lamp,Furniture,Central,1,1764.0,0.02,452.88
+ORD0366,2025-01-23,C009,Vikash Sharma,Backpack,Accessories,South,1,2156.0,0.02,671.55
+ORD0367,2025-09-15,C139,Suresh Mehta,Mouse,Technology,South,1,882.0,0.02,316.19
+ORD0368,2025-11-03,C209,Vikash Malhotra,Desk Organizer,Office Supplies,East,6,3780.0,0.1,1212.56
+ORD0369,2025-09-24,C061,Rahul Patel,Pen Set,Office Supplies,East,3,765.0,0.15,230.36
+ORD0370,2025-12-14,C071,Karan Patel,Smartphone,Technology,West,3,61200.0,0.15,12012.78
+ORD0371,2025-09-26,C013,Aditya Sharma,Office Chair,Furniture,West,7,33600.0,0.2,7065.78
+ORD0372,2025-04-05,C105,Rohit Gupta,Headphones,Technology,West,5,13800.0,0.08,4703.53
+ORD0373,2025-12-29,C062,Priya Patel,Printer,Office Supplies,West,5,48000.0,0.2,8663.7
+ORD0374,2025-10-13,C235,Manish Kapoor,Smartphone,Technology,West,7,154560.0,0.08,31667.95
+ORD0375,2025-11-28,C063,Amit Patel,Notebook,Office Supplies,West,4,1900.0,0.05,522.09
+ORD0376,2025-04-08,C217,Nikhil Malhotra,Office Chair,Furniture,West,2,10800.0,0.1,2249.09
+ORD0377,2025-02-07,C173,Aditya Yadav,Calculator,Office Supplies,Central,1,640.0,0.2,175.03
+ORD0378,2025-04-17,C186,Sneha Joshi,External Hard Drive,Technology,East,4,23920.0,0.08,4987.4
+ORD0379,2025-03-02,C078,Ayesha Patel,Laptop,Technology,West,4,215600.0,0.02,36522.02
+ORD0380,2025-05-03,C235,Manish Kapoor,Printer,Office Supplies,East,4,44160.0,0.08,9083.33
+ORD0381,2025-05-14,C098,Ayesha Kumar,Backpack,Accessories,West,6,12540.0,0.05,3843.18
+ORD0382,2025-06-13,C120,Meena Gupta,Monitor,Technology,East,8,115200.0,0.2,22856.2
+ORD0383,2025-04-24,C081,Rahul Kumar,Table Lamp,Furniture,North,1,1620.0,0.1,456.8
+ORD0384,2025-03-20,C067,Arjun Patel,External Hard Drive,Technology,South,7,43225.0,0.05,8088.91
+ORD0385,2025-10-09,C098,Ayesha Kumar,Desk Organizer,Office Supplies,East,4,2576.0,0.08,813.77
+ORD0386,2025-03-28,C066,Sneha Patel,Webcam,Technology,East,8,25760.0,0.08,6748.15
+ORD0387,2025-10-05,C044,Neha Singh,Headphones,Technology,North,8,23520.0,0.02,8427.61
+ORD0388,2025-12-09,C135,Manish Mehta,Smartphone,Technology,North,2,38400.0,0.2,6777.62
+ORD0389,2025-12-29,C106,Sneha Gupta,Headphones,Technology,South,4,12000,0,3776.66
+ORD0390,2025-11-13,C130,Pooja Mehta,Backpack,Accessories,Central,6,13200,0,4292.55
+ORD0391,2025-01-04,C234,Riya Kapoor,Webcam,Technology,West,8,28000,0,7237.11
+ORD0392,2025-05-27,C004,Neha Sharma,Laptop,Technology,West,5,247500.0,0.1,35898.43
+ORD0393,2025-09-26,C207,Arjun Malhotra,Keyboard,Technology,South,2,3600,0,1132.59
+ORD0394,2025-07-01,C159,Suresh Shah,USB Hub,Technology,West,5,4800.0,0.2,1247.35
+ORD0395,2025-10-17,C021,Rahul Verma,Office Chair,Furniture,South,7,38640.0,0.08,8417.35
+ORD0396,2025-07-27,C077,Nikhil Patel,Tablet,Technology,Central,1,28000,0,4413.07
+ORD0397,2025-03-29,C122,Priya Mehta,Smartphone,Technology,West,1,20400.0,0.15,3728.65
+ORD0398,2025-01-22,C166,Sneha Yadav,Desk,Furniture,Central,2,14400.0,0.1,2994.35
+ORD0399,2025-12-17,C122,Priya Mehta,Notebook,Office Supplies,Central,1,500,0,160.21
+ORD0400,2025-06-11,C145,Rohit Shah,Smartphone,Technology,South,3,57600.0,0.2,10087.58
+ORD0401,2025-06-03,C151,Karan Shah,Headphones,Technology,South,7,21000,0,6621.94
+ORD0402,2025-03-13,C146,Sneha Shah,Bookshelf,Furniture,North,6,38640.0,0.08,9086.21
+ORD0403,2025-08-12,C129,Vikash Mehta,Office Chair,Furniture,North,1,6000,0,1340.0
+ORD0404,2025-06-17,C088,Anjali Kumar,Calculator,Office Supplies,East,7,4480.0,0.2,1180.8
+ORD0405,2025-07-02,C201,Rahul Malhotra,Backpack,Accessories,West,8,17248.0,0.02,5507.52
+ORD0406,2025-11-13,C111,Karan Gupta,Keyboard,Technology,South,7,12600,0,4062.5
+ORD0407,2025-03-20,C183,Amit Joshi,Tablet,Technology,South,2,53200.0,0.05,8264.7
+ORD0408,2025-02-24,C190,Pooja Joshi,Bookshelf,Furniture,East,6,39900.0,0.05,8372.58
+ORD0409,2025-03-09,C114,Riya Gupta,Office Chair,Furniture,West,5,30000,0,6537.77
+ORD0410,2025-01-14,C115,Manish Gupta,External Hard Drive,Technology,Central,7,45500,0,8502.49
+ORD0411,2025-07-17,C024,Neha Verma,Calculator,Office Supplies,West,6,3840.0,0.2,1007.96
+ORD0412,2025-09-24,C100,Meena Kumar,Tablet,Technology,West,4,100800.0,0.1,14798.4
+ORD0413,2025-05-18,C044,Neha Singh,Headphones,Technology,North,5,14250.0,0.05,4682.0
+ORD0414,2025-06-03,C043,Amit Singh,Table Lamp,Furniture,North,5,8280.0,0.08,2243.69
+ORD0415,2025-11-17,C093,Aditya Kumar,Notebook,Office Supplies,Central,4,1700.0,0.15,487.1
+ORD0416,2025-06-05,C051,Karan Singh,Backpack,Accessories,West,2,4312.0,0.02,1254.52
+ORD0417,2025-06-18,C086,Sneha Kumar,Calculator,Office Supplies,West,7,4480.0,0.2,1295.76
+ORD0418,2025-06-14,C209,Vikash Malhotra,Calculator,Office Supplies,South,3,2280.0,0.05,715.51
+ORD0419,2025-06-13,C123,Amit Mehta,Desk,Furniture,West,3,22080.0,0.08,4679.81
+ORD0420,2025-07-12,C248,Anjali Mishra,Desk Organizer,Office Supplies,West,4,2660.0,0.05,794.07
+ORD0421,2025-10-07,C094,Riya Kumar,Monitor,Technology,Central,4,64800.0,0.1,11533.04
+ORD0422,2025-05-30,C007,Arjun Sharma,Backpack,Accessories,North,4,8096.0,0.08,2668.41
+ORD0423,2025-11-21,C210,Pooja Malhotra,Table Lamp,Furniture,East,8,14112.0,0.02,3773.81
+ORD0424,2025-07-13,C169,Vikash Yadav,Headphones,Technology,Central,7,16800.0,0.2,4772.84
+ORD0425,2025-09-17,C123,Amit Mehta,Desk Organizer,Office Supplies,West,7,4410.0,0.1,1451.85
+ORD0426,2025-10-02,C140,Meena Mehta,Smartphone,Technology,North,6,122400.0,0.15,24825.34
+ORD0427,2025-11-28,C028,Anjali Verma,Printer,Office Supplies,Central,6,70560.0,0.02,14895.43
+ORD0428,2025-08-09,C166,Sneha Yadav,Bookshelf,Furniture,North,6,33600.0,0.2,6594.73
+ORD0429,2025-07-11,C067,Arjun Patel,Printer,Office Supplies,Central,4,44160.0,0.08,8825.81
+ORD0430,2025-01-13,C177,Nikhil Yadav,USB Hub,Technology,East,3,3420.0,0.05,981.48
+ORD0431,2025-03-14,C107,Arjun Gupta,Tablet,Technology,East,2,44800.0,0.2,6531.59
+ORD0432,2025-09-01,C117,Nikhil Gupta,Mouse,Technology,West,8,6840.0,0.05,2095.49
+ORD0433,2025-12-30,C082,Priya Kumar,Tablet,Technology,East,5,140000,0,21114.31
+ORD0434,2025-05-05,C166,Sneha Yadav,Monitor,Technology,Central,3,45900.0,0.15,8558.12
+ORD0435,2025-04-29,C041,Rahul Singh,Desk,Furniture,South,7,51520.0,0.08,11940.28
+ORD0436,2025-11-11,C048,Anjali Singh,Table Lamp,Furniture,West,7,12600,0,3714.53
+ORD0437,2025-12-27,C152,Simran Shah,Table Lamp,Furniture,East,7,12600,0,3340.29
+ORD0438,2025-10-02,C193,Aditya Joshi,Tablet,Technology,East,2,44800.0,0.2,6299.22
+ORD0439,2025-12-10,C051,Karan Singh,Backpack,Accessories,Central,2,4180.0,0.05,1393.73
+ORD0440,2025-07-20,C248,Anjali Mishra,Desk,Furniture,East,7,50400.0,0.1,11200.4
+ORD0441,2025-12-11,C091,Karan Kumar,Backpack,Accessories,East,3,5280.0,0.2,1644.21
+ORD0442,2025-03-10,C236,Kavya Kapoor,Calculator,Office Supplies,South,2,1360.0,0.15,391.3
+ORD0443,2025-12-22,C079,Suresh Patel,Monitor,Technology,West,3,51300.0,0.05,9241.23
+ORD0444,2025-07-16,C108,Anjali Gupta,Calculator,Office Supplies,West,3,2160.0,0.1,647.01
+ORD0445,2025-03-27,C163,Amit Yadav,External Hard Drive,Technology,South,3,17550.0,0.1,3406.04
+ORD0446,2025-01-28,C048,Anjali Singh,Desk,Furniture,North,8,57600.0,0.1,13442.16
+ORD0447,2025-07-16,C125,Rohit Mehta,Headphones,Technology,Central,4,9600.0,0.2,3296.85
+ORD0448,2025-09-09,C168,Anjali Yadav,Webcam,Technology,West,7,20825.0,0.15,5033.71
+ORD0449,2025-01-16,C126,Sneha Mehta,Keyboard,Technology,South,2,3240.0,0.1,1106.81
+ORD0450,2025-10-03,C075,Manish Patel,Smartphone,Technology,West,5,117600.0,0.02,23529.68
+ORD0451,2025-02-28,C145,Rohit Shah,Webcam,Technology,Central,2,6300.0,0.1,1508.15
+ORD0452,2025-08-14,C211,Karan Malhotra,Office Chair,Furniture,West,1,4800.0,0.2,1060.38
+ORD0453,2025-01-17,C027,Arjun Verma,Printer,Office Supplies,East,5,48000.0,0.2,9274.46
+ORD0454,2025-03-02,C221,Rahul Kapoor,Tablet,Technology,South,8,179200.0,0.2,28587.64
+ORD0455,2025-12-30,C054,Riya Singh,Desk Organizer,Office Supplies,West,6,3360.0,0.2,1013.29
+ORD0456,2025-04-16,C043,Amit Singh,Calculator,Office Supplies,North,3,1920.0,0.2,600.12
+ORD0457,2025-10-03,C146,Sneha Shah,Office Chair,Furniture,East,5,27000.0,0.1,5753.58
+ORD0458,2025-09-21,C075,Manish Patel,Desk Organizer,Office Supplies,North,5,2800.0,0.2,910.45
+ORD0459,2025-12-02,C035,Manish Verma,Table Lamp,Furniture,South,1,1710.0,0.05,438.9
+ORD0460,2025-05-07,C064,Neha Patel,Headphones,Technology,West,6,14400.0,0.2,4751.01
+ORD0461,2025-08-01,C126,Sneha Mehta,Headphones,Technology,North,5,12750.0,0.15,3962.64
+ORD0462,2025-05-23,C163,Amit Yadav,Tablet,Technology,East,7,176400.0,0.1,28543.81
+ORD0463,2025-01-02,C117,Nikhil Gupta,Webcam,Technology,North,6,18900.0,0.1,5043.74
+ORD0464,2025-02-02,C188,Anjali Joshi,Backpack,Accessories,West,6,10560.0,0.2,3348.7
+ORD0465,2025-05-18,C056,Kavya Singh,Table Lamp,Furniture,East,4,6624.0,0.08,1743.32
+ORD0466,2025-09-06,C087,Arjun Kumar,External Hard Drive,Technology,North,3,17550.0,0.1,3592.4
+ORD0467,2025-03-05,C012,Simran Sharma,Monitor,Technology,South,8,144000,0,29923.86
+ORD0468,2025-04-14,C113,Aditya Gupta,Backpack,Accessories,South,1,2024.0,0.08,685.52
+ORD0469,2025-05-21,C226,Sneha Kapoor,Pen Set,Office Supplies,East,3,720.0,0.2,205.48
+ORD0470,2025-11-29,C065,Rohit Patel,Tablet,Technology,West,6,142800.0,0.15,20492.57
+ORD0471,2025-12-02,C161,Rahul Yadav,Pen Set,Office Supplies,North,4,1104.0,0.08,333.84
+ORD0472,2025-03-09,C001,Rahul Sharma,Mouse,Technology,Central,8,7200,0,2435.97
+ORD0473,2025-12-23,C175,Manish Yadav,Backpack,Accessories,North,1,2200,0,682.48
+ORD0474,2025-02-06,C221,Rahul Kapoor,Table Lamp,Furniture,North,3,4968.0,0.08,1284.95
+ORD0475,2025-07-08,C188,Anjali Joshi,Monitor,Technology,South,2,34200.0,0.05,6989.21
+ORD0476,2025-09-29,C098,Ayesha Kumar,Headphones,Technology,Central,3,9000,0,3030.38
+ORD0477,2025-04-20,C167,Arjun Yadav,Keyboard,Technology,South,8,13680.0,0.05,4598.37
+ORD0478,2025-04-22,C236,Kavya Kapoor,Table Lamp,Furniture,North,8,11520.0,0.2,2735.48
+ORD0479,2025-08-08,C036,Kavya Verma,Monitor,Technology,South,7,119700.0,0.05,22241.6
+ORD0480,2025-10-11,C064,Neha Patel,Notebook,Office Supplies,Central,2,980.0,0.02,297.35
+ORD0481,2025-09-23,C073,Aditya Patel,Laptop,Technology,South,5,269500.0,0.02,44644.87
+ORD0482,2025-01-28,C192,Simran Joshi,Bookshelf,Furniture,South,5,29750.0,0.15,6863.27
+ORD0483,2025-09-13,C127,Arjun Mehta,Bookshelf,Furniture,North,2,13720.0,0.02,3190.7
+ORD0484,2025-03-09,C136,Kavya Mehta,Laptop,Technology,Central,6,313500.0,0.05,49647.28
+ORD0485,2025-08-30,C108,Anjali Gupta,Office Chair,Furniture,North,3,14400.0,0.2,3455.39
+ORD0486,2025-05-15,C005,Rohit Sharma,Desk Organizer,Office Supplies,North,2,1400,0,419.99
+ORD0487,2025-12-31,C243,Amit Mishra,Bookshelf,Furniture,West,5,29750.0,0.15,6501.34
+ORD0488,2025-10-02,C109,Vikash Gupta,Bookshelf,Furniture,South,2,11900.0,0.15,2619.28
+ORD0489,2025-09-19,C072,Simran Patel,Tablet,Technology,South,5,140000,0,24015.33
+ORD0490,2025-11-21,C138,Ayesha Mehta,Desk,Furniture,North,7,50400.0,0.1,11555.66
+ORD0491,2025-05-06,C080,Meena Patel,Table Lamp,Furniture,West,4,7200,0,1867.59
+ORD0492,2025-12-08,C030,Pooja Verma,Backpack,Accessories,South,1,2090.0,0.05,683.32
+ORD0493,2025-01-06,C031,Karan Verma,Laptop,Technology,East,3,140250.0,0.15,20485.26
+ORD0494,2025-07-10,C134,Riya Mehta,USB Hub,Technology,East,5,5880.0,0.02,1601.79
+ORD0495,2025-08-08,C188,Anjali Joshi,Monitor,Technology,North,1,17100.0,0.05,3153.56
+ORD0496,2025-08-22,C068,Anjali Patel,Desk Organizer,Office Supplies,North,2,1288.0,0.08,396.76
+ORD0497,2025-03-22,C128,Anjali Mehta,Desk Organizer,Office Supplies,North,3,1995.0,0.05,592.89
+ORD0498,2025-09-18,C229,Vikash Kapoor,Desk Organizer,Office Supplies,North,2,1372.0,0.02,393.98
+ORD0499,2025-07-16,C063,Amit Patel,Smartphone,Technology,South,8,182400.0,0.05,40189.45
+ORD0500,2025-06-14,C239,Suresh Kapoor,Smartphone,Technology,East,7,164640.0,0.02,32715.27
+ORD0501,2025-09-15,C070,Pooja Patel,Tablet,Technology,North,6,168000,0,27748.77
+ORD0502,2025-02-05,C046,Sneha Singh,Printer,Office Supplies,East,1,11040.0,0.08,2400.8
+ORD0503,2025-10-11,C199,Suresh Joshi,Pen Set,Office Supplies,East,6,1800,0,595.85
+ORD0504,2025-11-15,C052,Simran Singh,Pen Set,Office Supplies,East,5,1275.0,0.15,385.66
+ORD0505,2025-10-07,C152,Simran Shah,Webcam,Technology,South,4,11900.0,0.15,3075.04
+ORD0506,2025-04-30,C039,Suresh Verma,Laptop,Technology,North,7,385000,0,63418.78
+ORD0507,2025-12-03,C244,Neha Mishra,Desk,Furniture,East,1,6400.0,0.2,1314.37
+ORD0508,2025-09-09,C027,Arjun Verma,Mouse,Technology,South,4,3312.0,0.08,1168.55
+ORD0509,2025-04-29,C183,Amit Joshi,Notebook,Office Supplies,Central,2,1000,0,319.07
+ORD0510,2025-02-13,C106,Sneha Gupta,Office Chair,Furniture,Central,8,40800.0,0.15,9244.74
+ORD0511,2025-10-18,C035,Manish Verma,Bookshelf,Furniture,South,2,12600.0,0.1,2575.89
+ORD0512,2025-06-11,C061,Rahul Patel,Pen Set,Office Supplies,West,5,1200.0,0.2,409.08
+ORD0513,2025-05-20,C180,Meena Yadav,Desk,Furniture,South,6,44160.0,0.08,9259.68
+ORD0514,2025-02-24,C035,Manish Verma,Desk Organizer,Office Supplies,West,2,1372.0,0.02,405.37
+ORD0515,2025-07-03,C081,Rahul Kumar,Table Lamp,Furniture,South,2,3240.0,0.1,949.34
+ORD0516,2025-03-03,C116,Kavya Gupta,Pen Set,Office Supplies,East,8,2280.0,0.05,697.57
+ORD0517,2025-06-17,C212,Simran Malhotra,Calculator,Office Supplies,South,1,784.0,0.02,229.68
+ORD0518,2025-01-26,C248,Anjali Mishra,Office Chair,Furniture,East,7,37800.0,0.1,8852.82
+ORD0519,2025-08-20,C210,Pooja Malhotra,Keyboard,Technology,Central,1,1656.0,0.08,545.37
+ORD0520,2025-03-13,C064,Neha Patel,Monitor,Technology,North,8,144000,0,26304.11
+ORD0521,2025-07-25,C213,Aditya Malhotra,Printer,Office Supplies,North,3,35280.0,0.02,7159.19
+ORD0522,2025-02-08,C150,Pooja Shah,Desk Organizer,Office Supplies,North,5,2800.0,0.2,740.84
+ORD0523,2025-06-19,C051,Karan Singh,Backpack,Accessories,West,3,6600,0,1973.17
+ORD0524,2025-07-22,C013,Aditya Sharma,Keyboard,Technology,West,7,10080.0,0.2,3147.4
+ORD0525,2025-04-20,C175,Manish Yadav,Table Lamp,Furniture,East,3,5130.0,0.05,1504.24
+ORD0526,2025-11-11,C072,Simran Patel,Backpack,Accessories,South,3,6600,0,2140.04
+ORD0527,2025-10-09,C166,Sneha Yadav,Pen Set,Office Supplies,North,8,2208.0,0.08,717.32
+ORD0528,2025-04-13,C072,Simran Patel,Bookshelf,Furniture,Central,3,19320.0,0.08,4429.56
+ORD0529,2025-07-03,C064,Neha Patel,External Hard Drive,Technology,West,1,5980.0,0.08,1165.77
+ORD0530,2025-05-19,C089,Vikash Kumar,Desk Organizer,Office Supplies,East,6,3864.0,0.08,1120.38
+ORD0531,2025-05-24,C153,Aditya Shah,Printer,Office Supplies,West,1,9600.0,0.2,1698.44
+ORD0532,2025-02-21,C136,Kavya Mehta,Office Chair,Furniture,South,4,23520.0,0.02,5234.08
+ORD0533,2025-04-23,C069,Vikash Patel,External Hard Drive,Technology,West,1,5200.0,0.2,990.74
+ORD0534,2025-10-31,C091,Karan Kumar,Keyboard,Technology,East,3,5292.0,0.02,1702.59
+ORD0535,2025-12-25,C234,Riya Kapoor,Desk Organizer,Office Supplies,Central,1,595.0,0.15,173.53
+ORD0536,2025-09-10,C145,Rohit Shah,Headphones,Technology,South,4,9600.0,0.2,3026.96
+ORD0537,2025-04-30,C126,Sneha Mehta,Smartphone,Technology,North,2,48000,0,10162.66
+ORD0538,2025-11-11,C135,Manish Mehta,Webcam,Technology,South,1,3325.0,0.05,800.76
+ORD0539,2025-01-12,C088,Anjali Kumar,Keyboard,Technology,South,6,10800,0,3397.08
+ORD0540,2025-07-11,C199,Suresh Joshi,Monitor,Technology,West,6,108000,0,21687.25
+ORD0541,2025-06-15,C151,Karan Shah,Monitor,Technology,South,6,102600.0,0.05,18465.98
+ORD0542,2025-06-12,C188,Anjali Joshi,Table Lamp,Furniture,Central,8,12240.0,0.15,3041.49
+ORD0543,2025-12-07,C178,Ayesha Yadav,Calculator,Office Supplies,South,6,4704.0,0.02,1483.85
+ORD0544,2025-04-01,C097,Nikhil Kumar,Pen Set,Office Supplies,Central,5,1470.0,0.02,505.81
+ORD0545,2025-11-05,C101,Rahul Gupta,Desk Organizer,Office Supplies,Central,1,686.0,0.02,208.1
+ORD0546,2025-03-14,C057,Nikhil Singh,Desk Organizer,Office Supplies,North,2,1288.0,0.08,384.11
+ORD0547,2025-11-22,C061,Rahul Patel,Office Chair,Furniture,North,6,35280.0,0.02,8707.87
+ORD0548,2025-05-16,C211,Karan Malhotra,Desk,Furniture,North,8,64000,0,13731.11
+ORD0549,2025-01-01,C090,Pooja Kumar,Notebook,Office Supplies,West,2,850.0,0.15,222.06
+ORD0550,2025-09-10,C188,Anjali Joshi,Table Lamp,Furniture,East,3,4968.0,0.08,1441.62
+ORD0551,2025-09-03,C140,Meena Mehta,Bookshelf,Furniture,Central,2,11200.0,0.2,2547.83
+ORD0552,2025-02-07,C167,Arjun Yadav,Printer,Office Supplies,North,3,33120.0,0.08,7109.03
+ORD0553,2025-02-23,C076,Kavya Patel,Laptop,Technology,South,6,313500.0,0.05,46946.09
+ORD0554,2025-02-08,C228,Anjali Kapoor,Bookshelf,Furniture,North,3,17850.0,0.15,3936.13
+ORD0555,2025-01-16,C087,Arjun Kumar,Calculator,Office Supplies,South,8,5440.0,0.15,1603.02
+ORD0556,2025-02-21,C156,Kavya Shah,Table Lamp,Furniture,South,3,5400,0,1459.46
+ORD0557,2025-05-25,C105,Rohit Gupta,External Hard Drive,Technology,North,5,27625.0,0.15,5070.55
+ORD0558,2025-01-28,C013,Aditya Sharma,Bookshelf,Furniture,West,8,54880.0,0.02,12194.98
+ORD0559,2025-02-19,C023,Amit Verma,Pen Set,Office Supplies,South,8,2352.0,0.02,719.29
+ORD0560,2025-03-01,C164,Neha Yadav,Pen Set,Office Supplies,West,2,552.0,0.08,173.87
+ORD0561,2025-11-25,C121,Rahul Mehta,Webcam,Technology,South,5,17500,0,4531.77
+ORD0562,2025-08-17,C095,Manish Kumar,Bookshelf,Furniture,West,6,41160.0,0.02,8660.53
+ORD0563,2025-05-18,C120,Meena Gupta,Notebook,Office Supplies,South,4,1600.0,0.2,456.17
+ORD0564,2025-06-26,C193,Aditya Joshi,Monitor,Technology,West,2,30600.0,0.15,6032.66
+ORD0565,2025-02-01,C249,Vikash Mishra,Desk Organizer,Office Supplies,Central,4,2520.0,0.1,817.98
+ORD0566,2025-05-01,C108,Anjali Gupta,External Hard Drive,Technology,North,8,46800.0,0.1,9060.5
+ORD0567,2025-08-18,C102,Priya Gupta,Smartphone,Technology,South,3,72000,0,14214.91
+ORD0568,2025-01-22,C249,Vikash Mishra,Mouse,Technology,West,4,3528.0,0.02,1155.29
+ORD0569,2025-02-04,C052,Simran Singh,Headphones,Technology,Central,5,14250.0,0.05,4357.12
+ORD0570,2025-05-22,C102,Priya Gupta,External Hard Drive,Technology,North,6,31200.0,0.2,5874.57
+ORD0571,2025-08-01,C202,Priya Malhotra,Calculator,Office Supplies,Central,7,5600,0,1651.9
+ORD0572,2025-10-16,C151,Karan Shah,Desk Organizer,Office Supplies,East,2,1400,0,459.68
+ORD0573,2025-05-16,C223,Amit Kapoor,External Hard Drive,Technology,West,6,35880.0,0.08,6874.04
+ORD0574,2025-03-30,C147,Arjun Shah,Calculator,Office Supplies,South,8,6400,0,1928.13
+ORD0575,2025-07-22,C159,Suresh Shah,Calculator,Office Supplies,East,7,5600,0,1859.08
+ORD0576,2025-09-01,C177,Nikhil Yadav,Printer,Office Supplies,East,1,10200.0,0.15,2199.58
+ORD0577,2025-05-24,C006,Sneha Sharma,Desk,Furniture,North,5,38000.0,0.05,8931.2
+ORD0578,2025-08-15,C249,Vikash Mishra,Printer,Office Supplies,East,3,34200.0,0.05,7360.09
+ORD0579,2025-08-15,C069,Vikash Patel,Table Lamp,Furniture,West,2,3528.0,0.02,928.82
+ORD0580,2025-01-29,C190,Pooja Joshi,Webcam,Technology,South,6,16800.0,0.2,4063.19
+ORD0581,2025-09-26,C017,Nikhil Sharma,Pen Set,Office Supplies,North,7,2058.0,0.02,724.99
+ORD0582,2025-01-30,C045,Rohit Singh,Mouse,Technology,West,4,2880.0,0.2,851.9
+ORD0583,2025-07-08,C013,Aditya Sharma,Office Chair,Furniture,Central,4,22800.0,0.05,5539.86
+ORD0584,2025-07-10,C102,Priya Gupta,Monitor,Technology,West,1,17640.0,0.02,3406.22
+ORD0585,2025-03-25,C046,Sneha Singh,Webcam,Technology,East,6,19950.0,0.05,5354.23
+ORD0586,2025-07-17,C192,Simran Joshi,Tablet,Technology,Central,5,140000,0,20878.74
+ORD0587,2025-04-26,C200,Meena Joshi,Mouse,Technology,East,4,3060.0,0.15,1009.12
+ORD0588,2025-12-16,C167,Arjun Yadav,Table Lamp,Furniture,South,1,1440.0,0.2,335.71
+ORD0589,2025-05-10,C166,Sneha Yadav,Keyboard,Technology,East,1,1764.0,0.02,595.4
+ORD0590,2025-06-28,C183,Amit Joshi,Notebook,Office Supplies,South,7,3220.0,0.08,938.11
+ORD0591,2025-02-22,C120,Meena Gupta,Pen Set,Office Supplies,East,7,1890.0,0.1,557.32
+ORD0592,2025-12-17,C144,Neha Shah,Calculator,Office Supplies,North,5,3800.0,0.05,1093.5
+ORD0593,2025-05-22,C087,Arjun Kumar,Notebook,Office Supplies,East,6,2400.0,0.2,640.61
+ORD0594,2025-11-04,C049,Vikash Singh,Headphones,Technology,East,4,12000,0,3938.62
+ORD0595,2025-09-12,C175,Manish Yadav,Headphones,Technology,East,1,2550.0,0.15,892.1
+ORD0596,2025-01-19,C233,Aditya Kapoor,Table Lamp,Furniture,Central,7,11592.0,0.08,3196.49
+ORD0597,2025-04-24,C209,Vikash Malhotra,Mouse,Technology,West,6,4590.0,0.15,1516.16
+ORD0598,2025-03-29,C233,Aditya Kapoor,Office Chair,Furniture,Central,5,24000.0,0.2,5631.52
+ORD0599,2025-03-07,C047,Arjun Singh,Pen Set,Office Supplies,Central,2,552.0,0.08,187.71
+ORD0600,2025-02-15,C196,Kavya Joshi,Keyboard,Technology,South,6,9180.0,0.15,2765.02
+ORD0601,2025-06-19,C191,Karan Joshi,Pen Set,Office Supplies,Central,7,1680.0,0.2,510.63
+ORD0602,2025-01-28,C076,Kavya Patel,Backpack,Accessories,Central,2,4048.0,0.08,1342.07
+ORD0603,2025-04-10,C149,Vikash Shah,Calculator,Office Supplies,West,2,1472.0,0.08,450.04
+ORD0604,2025-03-19,C136,Kavya Mehta,Pen Set,Office Supplies,South,7,2100,0,659.38
+ORD0605,2025-06-11,C088,Anjali Kumar,Table Lamp,Furniture,South,8,14112.0,0.02,4131.93
+ORD0606,2025-11-20,C200,Meena Joshi,Tablet,Technology,East,8,212800.0,0.05,36553.05
+ORD0607,2025-05-21,C163,Amit Yadav,Smartphone,Technology,South,1,22080.0,0.08,4267.51
+ORD0608,2025-02-15,C148,Anjali Shah,Keyboard,Technology,West,8,11520.0,0.2,3315.38
+ORD0609,2025-09-02,C163,Amit Yadav,Table Lamp,Furniture,North,7,11592.0,0.08,3084.66
+ORD0610,2025-06-14,C137,Nikhil Mehta,Mouse,Technology,Central,6,5400,0,1873.97
+ORD0611,2025-05-08,C049,Vikash Singh,Laptop,Technology,East,1,46750.0,0.15,6918.32
+ORD0612,2025-09-15,C080,Meena Patel,Headphones,Technology,South,2,5520.0,0.08,1828.37
+ORD0613,2025-08-22,C017,Nikhil Sharma,Smartphone,Technology,Central,5,114000.0,0.05,24348.83
+ORD0614,2025-03-10,C135,Manish Mehta,Desk,Furniture,West,7,47600.0,0.15,9920.45
+ORD0615,2025-07-26,C092,Simran Kumar,Mouse,Technology,South,3,2160.0,0.2,605.75
+ORD0616,2025-01-12,C187,Arjun Joshi,Headphones,Technology,South,4,10200.0,0.15,3307.4
+ORD0617,2025-11-24,C032,Simran Verma,Office Chair,Furniture,Central,1,5520.0,0.08,1205.3
+ORD0618,2025-02-25,C160,Meena Shah,Smartphone,Technology,North,1,20400.0,0.15,4185.35
+ORD0619,2025-07-14,C013,Aditya Sharma,Monitor,Technology,East,7,115920.0,0.08,20574.49
+ORD0620,2025-12-18,C122,Priya Mehta,Headphones,Technology,East,4,10200.0,0.15,3333.4
+ORD0621,2025-11-07,C108,Anjali Gupta,Monitor,Technology,West,5,81000.0,0.1,15874.53
+ORD0622,2025-02-28,C213,Aditya Malhotra,Monitor,Technology,West,2,34200.0,0.05,6881.43
+ORD0623,2025-05-15,C051,Karan Singh,Calculator,Office Supplies,South,4,2560.0,0.2,803.04
+ORD0624,2025-01-21,C092,Simran Kumar,Table Lamp,Furniture,South,5,8820.0,0.02,2456.76
+ORD0625,2025-01-02,C177,Nikhil Yadav,Webcam,Technology,North,6,20580.0,0.02,4844.02
+ORD0626,2025-02-16,C233,Aditya Kapoor,Monitor,Technology,North,8,141120.0,0.02,28552.28
+ORD0627,2025-04-29,C186,Sneha Joshi,Monitor,Technology,East,5,76500.0,0.15,14097.65
+ORD0628,2025-03-31,C068,Anjali Patel,Backpack,Accessories,East,1,2200,0,741.9
+ORD0629,2025-03-01,C093,Aditya Kumar,Desk,Furniture,North,7,47600.0,0.15,9421.02
+ORD0630,2025-07-03,C003,Amit Sharma,Headphones,Technology,Central,3,8550.0,0.05,3001.87
+ORD0631,2025-06-25,C069,Vikash Patel,Tablet,Technology,West,6,134400.0,0.2,18880.0
+ORD0632,2025-07-17,C103,Amit Gupta,Backpack,Accessories,West,5,8800.0,0.2,2731.35
+ORD0633,2025-03-09,C205,Rohit Malhotra,Table Lamp,Furniture,North,3,5400,0,1547.08
+ORD0634,2025-10-30,C242,Priya Mishra,Keyboard,Technology,Central,2,3312.0,0.08,1076.67
+ORD0635,2025-07-14,C174,Riya Yadav,Backpack,Accessories,Central,3,5940.0,0.1,1931.3
+ORD0636,2025-02-27,C008,Anjali Sharma,Headphones,Technology,West,8,22080.0,0.08,7696.12
+ORD0637,2025-06-10,C012,Simran Sharma,Tablet,Technology,Central,5,119000.0,0.15,16525.75
+ORD0638,2025-06-23,C197,Nikhil Joshi,Desk Organizer,Office Supplies,Central,4,2380.0,0.15,717.69
+ORD0639,2025-06-27,C025,Rohit Verma,Table Lamp,Furniture,West,4,6624.0,0.08,1852.39
+ORD0640,2025-11-26,C039,Suresh Verma,External Hard Drive,Technology,Central,1,6500,0,1390.35
+ORD0641,2025-03-26,C218,Ayesha Malhotra,Webcam,Technology,West,8,22400.0,0.2,4910.24
+ORD0642,2025-01-26,C083,Amit Kumar,Printer,Office Supplies,Central,6,68400.0,0.05,14079.13
+ORD0643,2025-05-01,C165,Rohit Yadav,Bookshelf,Furniture,West,7,39200.0,0.2,7645.26
+ORD0644,2025-09-13,C206,Sneha Malhotra,Desk Organizer,Office Supplies,North,8,5600,0,1745.09
+ORD0645,2025-07-31,C128,Anjali Mehta,Laptop,Technology,Central,2,101200.0,0.08,14863.2
+ORD0646,2025-10-15,C001,Rahul Sharma,Tablet,Technology,West,5,126000.0,0.1,18632.16
+ORD0647,2025-01-28,C244,Neha Mishra,Desk,Furniture,West,6,38400.0,0.2,8647.07
+ORD0648,2025-12-03,C085,Rohit Kumar,External Hard Drive,Technology,West,8,44200.0,0.15,8222.52
+ORD0649,2025-06-24,C030,Pooja Verma,Monitor,Technology,East,4,72000,0,13675.51
+ORD0650,2025-02-24,C141,Rahul Shah,USB Hub,Technology,South,6,6120.0,0.15,1553.63
+ORD0651,2025-05-11,C127,Arjun Mehta,Headphones,Technology,South,7,21000,0,7124.15
+ORD0652,2025-04-08,C031,Karan Verma,Bookshelf,Furniture,North,4,25760.0,0.08,5981.99
+ORD0653,2025-12-11,C194,Riya Joshi,Table Lamp,Furniture,West,1,1530.0,0.15,413.35
+ORD0654,2025-01-03,C118,Ayesha Gupta,Desk Organizer,Office Supplies,North,3,1932.0,0.08,597.21
+ORD0655,2025-04-01,C142,Priya Shah,Table Lamp,Furniture,South,8,12960.0,0.1,3622.76
+ORD0656,2025-12-03,C188,Anjali Joshi,Headphones,Technology,East,2,5520.0,0.08,1832.17
+ORD0657,2025-12-21,C130,Pooja Mehta,Bookshelf,Furniture,East,7,44100.0,0.1,10270.18
+ORD0658,2025-03-10,C102,Priya Gupta,Desk,Furniture,Central,5,36800.0,0.08,7578.98
+ORD0659,2025-12-26,C180,Meena Yadav,USB Hub,Technology,East,5,4800.0,0.2,1325.89
+ORD0660,2025-04-18,C183,Amit Joshi,External Hard Drive,Technology,East,4,25480.0,0.02,5173.31
+ORD0661,2025-11-29,C176,Kavya Yadav,Office Chair,Furniture,South,3,15300.0,0.15,3731.82
+ORD0662,2025-03-01,C129,Vikash Mehta,External Hard Drive,Technology,Central,6,33150.0,0.15,6662.95
+ORD0663,2025-10-01,C123,Amit Mehta,Desk Organizer,Office Supplies,West,7,4165.0,0.15,1198.5
+ORD0664,2025-07-15,C207,Arjun Malhotra,Laptop,Technology,North,2,110000,0,16978.54
+ORD0665,2025-12-16,C052,Simran Singh,Notebook,Office Supplies,North,3,1425.0,0.05,403.92
+ORD0666,2025-10-05,C177,Nikhil Yadav,Pen Set,Office Supplies,West,4,960.0,0.2,270.07
+ORD0667,2025-11-28,C027,Arjun Verma,Calculator,Office Supplies,South,4,2720.0,0.15,822.3
+ORD0668,2025-07-18,C131,Karan Mehta,Pen Set,Office Supplies,East,1,276.0,0.08,88.67
+ORD0669,2025-05-09,C248,Anjali Mishra,External Hard Drive,Technology,West,1,6500,0,1238.24
+ORD0670,2025-10-29,C213,Aditya Malhotra,Printer,Office Supplies,Central,6,57600.0,0.2,11361.88
+ORD0671,2025-04-01,C051,Karan Singh,Mouse,Technology,North,5,4140.0,0.08,1466.03
+ORD0672,2025-01-21,C048,Anjali Singh,Keyboard,Technology,Central,2,3312.0,0.08,1066.27
+ORD0673,2025-05-11,C068,Anjali Patel,Headphones,Technology,West,3,8100.0,0.1,2387.71
+ORD0674,2025-06-15,C182,Priya Joshi,Headphones,Technology,Central,1,2940.0,0.02,990.5
+ORD0675,2025-10-21,C216,Kavya Malhotra,Pen Set,Office Supplies,North,8,1920.0,0.2,606.42
+ORD0676,2025-09-24,C201,Rahul Malhotra,Desk,Furniture,Central,4,31360.0,0.02,6522.54
+ORD0677,2025-06-28,C041,Rahul Singh,Table Lamp,Furniture,South,7,12600,0,3343.87
+ORD0678,2025-05-31,C170,Pooja Yadav,Desk,Furniture,Central,6,45600.0,0.05,9638.47
+ORD0679,2025-12-09,C136,Kavya Mehta,Webcam,Technology,South,1,3500,0,877.83
+ORD0680,2025-12-16,C232,Simran Kapoor,Calculator,Office Supplies,West,4,3200,0,1061.71
+ORD0681,2025-10-04,C235,Manish Kapoor,Monitor,Technology,North,7,119700.0,0.05,23846.73
+ORD0682,2025-09-18,C234,Riya Kapoor,USB Hub,Technology,North,6,6480.0,0.1,1819.21
+ORD0683,2025-02-12,C076,Kavya Patel,Mouse,Technology,South,6,4860.0,0.1,1704.09
+ORD0684,2025-02-03,C249,Vikash Mishra,External Hard Drive,Technology,South,1,5525.0,0.15,996.09
+ORD0685,2025-10-03,C222,Priya Kapoor,Table Lamp,Furniture,West,2,3528.0,0.02,1027.6
+ORD0686,2025-08-24,C166,Sneha Yadav,Tablet,Technology,North,3,84000,0,13968.44
+ORD0687,2025-05-09,C023,Amit Verma,Tablet,Technology,Central,1,27440.0,0.02,4429.32
+ORD0688,2025-07-18,C211,Karan Malhotra,Printer,Office Supplies,West,5,55200.0,0.08,11152.25
+ORD0689,2025-12-11,C111,Karan Gupta,Desk,Furniture,North,1,7360.0,0.08,1510.07
+ORD0690,2025-10-27,C165,Rohit Yadav,Calculator,Office Supplies,North,2,1280.0,0.2,338.64
+ORD0691,2025-12-18,C092,Simran Kumar,USB Hub,Technology,North,2,2280.0,0.05,634.0
+ORD0692,2025-12-05,C073,Aditya Patel,Backpack,Accessories,South,7,14168.0,0.08,4042.16
+ORD0693,2025-07-20,C137,Nikhil Mehta,Printer,Office Supplies,Central,3,30600.0,0.15,6449.87
+ORD0694,2025-11-28,C076,Kavya Patel,Headphones,Technology,North,5,12750.0,0.15,3961.0
+ORD0695,2025-01-22,C142,Priya Shah,External Hard Drive,Technology,Central,3,19500,0,3591.14
+ORD0696,2025-04-18,C101,Rahul Gupta,External Hard Drive,Technology,East,2,12350.0,0.05,2540.79
+ORD0697,2025-04-05,C055,Manish Singh,Table Lamp,Furniture,East,3,5292.0,0.02,1395.49
+ORD0698,2025-10-18,C050,Pooja Singh,Monitor,Technology,Central,3,45900.0,0.15,9123.03
+ORD0699,2025-12-10,C119,Suresh Gupta,External Hard Drive,Technology,North,2,12350.0,0.05,2257.52
+ORD0700,2025-07-02,C051,Karan Singh,Desk Organizer,Office Supplies,South,8,5320.0,0.05,1545.31
+ORD0701,2025-06-12,C026,Sneha Verma,Pen Set,Office Supplies,East,2,588.0,0.02,194.55
+ORD0702,2025-10-18,C158,Ayesha Shah,Pen Set,Office Supplies,East,3,810.0,0.1,256.0
+ORD0703,2025-06-10,C246,Sneha Mishra,Table Lamp,Furniture,South,3,5400,0,1439.08
+ORD0704,2025-07-04,C183,Amit Joshi,Table Lamp,Furniture,East,5,7200.0,0.2,1728.72
+ORD0705,2025-07-03,C225,Rohit Kapoor,Webcam,Technology,West,8,25760.0,0.08,6796.53
+ORD0706,2025-11-07,C142,Priya Shah,Monitor,Technology,East,3,45900.0,0.15,7828.97
+ORD0707,2025-11-17,C220,Meena Malhotra,Headphones,Technology,North,4,11400.0,0.05,3478.94
+ORD0708,2025-10-25,C229,Vikash Kapoor,Laptop,Technology,Central,1,44000.0,0.2,6863.62
+ORD0709,2025-10-04,C055,Manish Singh,Smartphone,Technology,South,5,108000.0,0.1,21763.42
+ORD0710,2025-10-29,C094,Riya Kumar,Bookshelf,Furniture,East,4,22400.0,0.2,5038.82
+ORD0711,2025-07-06,C035,Manish Verma,Backpack,Accessories,South,2,4048.0,0.08,1260.49
+ORD0712,2025-09-21,C218,Ayesha Malhotra,Calculator,Office Supplies,South,3,1920.0,0.2,519.34
+ORD0713,2025-09-05,C046,Sneha Singh,Desk Organizer,Office Supplies,North,3,1785.0,0.15,582.63
+ORD0714,2025-05-16,C057,Nikhil Singh,Webcam,Technology,North,4,14000,0,3524.79
+ORD0715,2025-08-29,C172,Simran Yadav,Mouse,Technology,North,6,4968.0,0.08,1740.36
+ORD0716,2025-09-24,C011,Karan Sharma,Desk,Furniture,East,2,13600.0,0.15,3001.93
+ORD0717,2025-12-01,C214,Riya Malhotra,Notebook,Office Supplies,Central,3,1380.0,0.08,396.25
+ORD0718,2025-04-25,C168,Anjali Yadav,Tablet,Technology,East,5,128800.0,0.08,20308.94
+ORD0719,2025-09-04,C210,Pooja Malhotra,Office Chair,Furniture,North,8,38400.0,0.2,9093.81
+ORD0720,2025-04-28,C129,Vikash Mehta,Headphones,Technology,East,8,23520.0,0.02,7258.67
+ORD0721,2025-07-05,C055,Manish Singh,Headphones,Technology,North,3,8820.0,0.02,2973.97
+ORD0722,2025-06-19,C170,Pooja Yadav,Printer,Office Supplies,West,7,67200.0,0.2,13741.72
+ORD0723,2025-10-30,C173,Aditya Yadav,Webcam,Technology,West,8,27440.0,0.02,6629.76
+ORD0724,2025-10-21,C006,Sneha Sharma,Printer,Office Supplies,South,1,11760.0,0.02,2474.44
+ORD0725,2025-03-17,C162,Priya Yadav,USB Hub,Technology,East,1,1080.0,0.1,281.38
+ORD0726,2025-10-16,C237,Nikhil Kapoor,Keyboard,Technology,East,7,11340.0,0.1,3767.48
+ORD0727,2025-11-07,C243,Amit Mishra,Tablet,Technology,West,4,103040.0,0.08,17619.19
+ORD0728,2025-03-15,C044,Neha Singh,Printer,Office Supplies,South,7,75600.0,0.1,16137.42
+ORD0729,2025-12-18,C160,Meena Shah,USB Hub,Technology,West,5,5880.0,0.02,1662.2
+ORD0730,2025-07-13,C153,Aditya Shah,Desk Organizer,Office Supplies,North,2,1372.0,0.02,420.94
+ORD0731,2025-03-18,C005,Rohit Sharma,Mouse,Technology,South,7,5040.0,0.2,1610.45
+ORD0732,2025-09-30,C122,Priya Mehta,Calculator,Office Supplies,North,1,640.0,0.2,187.63
+ORD0733,2025-10-04,C024,Neha Verma,Webcam,Technology,West,3,9450.0,0.1,2503.99
+ORD0734,2025-01-23,C134,Riya Mehta,Table Lamp,Furniture,West,6,8640.0,0.2,2344.87
+ORD0735,2025-10-29,C059,Suresh Singh,Webcam,Technology,Central,7,23275.0,0.05,6213.31
+ORD0736,2025-09-02,C026,Sneha Verma,Table Lamp,Furniture,North,3,5130.0,0.05,1470.06
+ORD0737,2025-04-07,C073,Aditya Patel,Calculator,Office Supplies,North,7,5320.0,0.05,1502.16
+ORD0738,2025-01-04,C148,Anjali Shah,USB Hub,Technology,South,2,2160.0,0.1,598.5
+ORD0739,2025-02-24,C177,Nikhil Yadav,Desk,Furniture,Central,7,53200.0,0.05,11116.53
+ORD0740,2025-07-07,C065,Rohit Patel,Notebook,Office Supplies,West,7,3150.0,0.1,937.55
+ORD0741,2025-10-13,C194,Riya Joshi,Mouse,Technology,East,7,5670.0,0.1,1831.61
+ORD0742,2025-06-07,C144,Neha Shah,External Hard Drive,Technology,West,8,49400.0,0.05,9879.21
+ORD0743,2025-04-28,C189,Vikash Joshi,Headphones,Technology,South,2,5100.0,0.15,1607.91
+ORD0744,2025-06-23,C026,Sneha Verma,Mouse,Technology,Central,7,5040.0,0.2,1676.09
+ORD0745,2025-11-22,C179,Suresh Yadav,Smartphone,Technology,North,3,66240.0,0.08,12312.7
+ORD0746,2025-08-11,C211,Karan Malhotra,Headphones,Technology,East,8,21600.0,0.1,6472.82
+ORD0747,2025-01-20,C057,Nikhil Singh,Office Chair,Furniture,West,2,10800.0,0.1,2550.57
+ORD0748,2025-11-02,C158,Ayesha Shah,USB Hub,Technology,South,5,5100.0,0.15,1297.96
+ORD0749,2025-04-14,C164,Neha Yadav,Webcam,Technology,Central,8,28000,0,7603.85
+ORD0750,2025-11-03,C074,Riya Patel,Mouse,Technology,South,1,720.0,0.2,225.51
+ORD0751,2025-05-03,C158,Ayesha Shah,Keyboard,Technology,South,1,1710.0,0.05,577.38
+ORD0752,2025-12-09,C023,Amit Verma,Notebook,Office Supplies,Central,7,3325.0,0.05,966.76
+ORD0753,2025-12-27,C052,Simran Singh,USB Hub,Technology,North,1,1020.0,0.15,260.22
+ORD0754,2025-05-22,C141,Rahul Shah,Pen Set,Office Supplies,South,6,1710.0,0.05,536.22
+ORD0755,2025-03-31,C117,Nikhil Gupta,Bookshelf,Furniture,North,1,6650.0,0.05,1476.23
+ORD0756,2025-03-01,C144,Neha Shah,Tablet,Technology,East,5,133000.0,0.05,22184.34
+ORD0757,2025-08-15,C225,Rohit Kapoor,External Hard Drive,Technology,Central,5,27625.0,0.15,5765.95
+ORD0758,2025-08-23,C124,Neha Mehta,Printer,Office Supplies,Central,6,57600.0,0.2,11685.83
+ORD0759,2025-05-13,C221,Rahul Kapoor,Laptop,Technology,South,8,440000,0,67018.23
+ORD0760,2025-06-30,C174,Riya Yadav,Printer,Office Supplies,North,6,66240.0,0.08,13539.61
+ORD0761,2025-02-17,C180,Meena Yadav,Notebook,Office Supplies,East,4,1900.0,0.05,552.8
+ORD0762,2025-06-10,C020,Meena Sharma,External Hard Drive,Technology,Central,3,17940.0,0.08,3418.61
+ORD0763,2025-04-13,C069,Vikash Patel,Keyboard,Technology,South,4,6624.0,0.08,2058.19
+ORD0764,2025-04-14,C224,Neha Kapoor,Notebook,Office Supplies,Central,4,1960.0,0.02,617.15
+ORD0765,2025-02-10,C092,Simran Kumar,Headphones,Technology,West,2,6000,0,2056.26
+ORD0766,2025-09-04,C158,Ayesha Shah,Laptop,Technology,East,1,44000.0,0.2,6564.52
+ORD0767,2025-04-04,C127,Arjun Mehta,Desk Organizer,Office Supplies,Central,5,3220.0,0.08,1075.25
+ORD0768,2025-10-23,C072,Simran Patel,Bookshelf,Furniture,Central,4,22400.0,0.2,4419.32
+ORD0769,2025-01-17,C205,Rohit Malhotra,Table Lamp,Furniture,West,8,12960.0,0.1,3501.58
+ORD0770,2025-12-24,C221,Rahul Kapoor,Keyboard,Technology,East,8,14400,0,4813.98
+ORD0771,2025-04-18,C177,Nikhil Yadav,Laptop,Technology,North,1,46750.0,0.15,7138.88
+ORD0772,2025-10-08,C084,Neha Kumar,Office Chair,Furniture,East,5,29400.0,0.02,6559.39
+ORD0773,2025-04-05,C121,Rahul Mehta,Calculator,Office Supplies,South,6,4560.0,0.05,1405.95
+ORD0774,2025-07-25,C108,Anjali Gupta,Office Chair,Furniture,South,6,28800.0,0.2,6003.82
+ORD0775,2025-02-21,C147,Arjun Shah,Headphones,Technology,South,4,9600.0,0.2,3141.32
+ORD0776,2025-03-16,C143,Amit Shah,Table Lamp,Furniture,South,7,12348.0,0.02,3580.52
+ORD0777,2025-09-13,C122,Priya Mehta,Laptop,Technology,Central,3,151800.0,0.08,22720.92
+ORD0778,2025-05-09,C137,Nikhil Mehta,Desk,Furniture,Central,8,60800.0,0.05,13643.17
+ORD0779,2025-03-25,C013,Aditya Sharma,Bookshelf,Furniture,East,2,11900.0,0.15,2374.74
+ORD0780,2025-06-21,C122,Priya Mehta,Monitor,Technology,East,8,122400.0,0.15,21673.77
+ORD0781,2025-01-11,C144,Neha Shah,External Hard Drive,Technology,East,5,30875.0,0.05,6001.98
+ORD0782,2025-10-22,C223,Amit Kapoor,Calculator,Office Supplies,Central,4,2880.0,0.1,898.98
+ORD0783,2025-12-11,C045,Rohit Singh,Pen Set,Office Supplies,West,6,1710.0,0.05,563.5
+ORD0784,2025-05-27,C228,Anjali Kapoor,Tablet,Technology,South,7,176400.0,0.1,27379.81
+ORD0785,2025-11-20,C223,Amit Kapoor,Keyboard,Technology,West,6,9936.0,0.08,3304.69
+ORD0786,2025-06-25,C218,Ayesha Malhotra,Tablet,Technology,East,2,54880.0,0.02,8383.63
+ORD0787,2025-11-27,C168,Anjali Yadav,Pen Set,Office Supplies,West,5,1350.0,0.1,429.14
+ORD0788,2025-03-27,C200,Meena Joshi,Office Chair,Furniture,North,8,44160.0,0.08,9513.52
+ORD0789,2025-12-25,C033,Aditya Verma,Printer,Office Supplies,South,5,51000.0,0.15,10655.73
+ORD0790,2025-02-02,C043,Amit Singh,Bookshelf,Furniture,West,2,14000,0,3423.64
+ORD0791,2025-07-23,C141,Rahul Shah,Smartphone,Technology,North,1,19200.0,0.2,3769.19
+ORD0792,2025-12-02,C027,Arjun Verma,Notebook,Office Supplies,West,3,1500,0,481.07
+ORD0793,2025-05-26,C080,Meena Patel,Printer,Office Supplies,South,4,40800.0,0.15,8034.06
+ORD0794,2025-01-18,C034,Riya Verma,USB Hub,Technology,East,3,3600,0,1077.48
+ORD0795,2025-10-04,C222,Priya Kapoor,Webcam,Technology,Central,8,22400.0,0.2,5900.96
+ORD0796,2025-11-02,C114,Riya Gupta,Headphones,Technology,Central,3,8100.0,0.1,2604.14
+ORD0797,2025-09-04,C112,Simran Gupta,USB Hub,Technology,North,5,5700.0,0.05,1651.73
+ORD0798,2025-05-14,C114,Riya Gupta,Pen Set,Office Supplies,North,6,1656.0,0.08,506.95
+ORD0799,2025-05-27,C001,Rahul Sharma,USB Hub,Technology,North,3,3420.0,0.05,979.2
+ORD0800,2025-01-05,C177,Nikhil Yadav,Webcam,Technology,East,8,26600.0,0.05,7056.28
+ORD0801,2025-07-11,C153,Aditya Shah,Printer,Office Supplies,Central,1,10800.0,0.1,2062.93
+ORD0802,2025-11-27,C112,Simran Gupta,Bookshelf,Furniture,West,4,27440.0,0.02,6127.08
+ORD0803,2025-11-17,C057,Nikhil Singh,Notebook,Office Supplies,Central,2,920.0,0.08,257.5
+ORD0804,2025-09-30,C207,Arjun Malhotra,Notebook,Office Supplies,West,5,2125.0,0.15,646.43
+ORD0805,2025-05-29,C049,Vikash Singh,Tablet,Technology,West,3,82320.0,0.02,12320.87
+ORD0806,2025-11-15,C159,Suresh Shah,Backpack,Accessories,East,5,9350.0,0.15,2839.27
+ORD0807,2025-01-12,C005,Rohit Sharma,Headphones,Technology,North,1,2700.0,0.1,824.75
+ORD0808,2025-08-13,C073,Aditya Patel,Notebook,Office Supplies,South,3,1275.0,0.15,381.98
+ORD0809,2025-04-22,C024,Neha Verma,Headphones,Technology,East,1,2760.0,0.08,874.71
+ORD0810,2025-12-23,C202,Priya Malhotra,Webcam,Technology,East,6,19320.0,0.08,5111.79
+ORD0811,2025-07-20,C021,Rahul Verma,Headphones,Technology,West,1,2850.0,0.05,868.92
+ORD0812,2025-07-15,C047,Arjun Singh,Mouse,Technology,North,5,3600.0,0.2,1203.78
+ORD0813,2025-08-15,C250,Pooja Mishra,Printer,Office Supplies,North,7,67200.0,0.2,12417.05
+ORD0814,2025-12-07,C051,Karan Singh,Backpack,Accessories,West,2,3960.0,0.1,1332.99
+ORD0815,2025-11-19,C100,Meena Kumar,Pen Set,Office Supplies,Central,6,1764.0,0.02,606.91
+ORD0816,2025-11-23,C134,Riya Mehta,Monitor,Technology,East,5,82800.0,0.08,15186.68
+ORD0817,2025-05-01,C228,Anjali Kapoor,Smartphone,Technology,East,4,96000,0,20425.31
+ORD0818,2025-03-03,C004,Neha Sharma,Keyboard,Technology,South,5,8100.0,0.1,2574.99
+ORD0819,2025-11-02,C003,Amit Sharma,Smartphone,Technology,North,8,163200.0,0.15,30291.95
+ORD0820,2025-12-18,C064,Neha Patel,Keyboard,Technology,North,8,14400,0,4891.12
+ORD0821,2025-10-02,C016,Kavya Sharma,Office Chair,Furniture,South,3,15300.0,0.15,3608.37
+ORD0822,2025-11-27,C125,Rohit Mehta,Printer,Office Supplies,West,6,64800.0,0.1,13741.07
+ORD0823,2025-07-13,C188,Anjali Joshi,Mouse,Technology,South,1,765.0,0.15,236.94
+ORD0824,2025-08-13,C065,Rohit Patel,Smartphone,Technology,Central,8,163200.0,0.15,32877.76
+ORD0825,2025-04-06,C179,Suresh Yadav,Webcam,Technology,East,4,12600.0,0.1,3175.13
+ORD0826,2025-11-03,C188,Anjali Joshi,Backpack,Accessories,Central,5,8800.0,0.2,2857.11
+ORD0827,2025-06-01,C042,Priya Singh,Tablet,Technology,Central,3,77280.0,0.08,12839.94
+ORD0828,2025-11-23,C094,Riya Kumar,Backpack,Accessories,South,1,1760.0,0.2,525.67
+ORD0829,2025-11-14,C227,Arjun Kapoor,Laptop,Technology,North,6,264000.0,0.2,38243.12
+ORD0830,2025-09-26,C169,Vikash Yadav,External Hard Drive,Technology,Central,7,44590.0,0.02,9139.27
+ORD0831,2025-07-29,C040,Meena Verma,Calculator,Office Supplies,North,5,3800.0,0.05,1200.06
+ORD0832,2025-03-08,C025,Rohit Verma,USB Hub,Technology,North,2,2400,0,664.01
+ORD0833,2025-02-20,C052,Simran Singh,Monitor,Technology,West,8,141120.0,0.02,25202.54
+ORD0834,2025-07-07,C169,Vikash Yadav,Webcam,Technology,North,5,17500,0,4298.92
+ORD0835,2025-02-10,C004,Neha Sharma,Mouse,Technology,North,8,5760.0,0.2,1787.73
+ORD0836,2025-07-08,C093,Aditya Kumar,External Hard Drive,Technology,North,7,36400.0,0.2,7253.43
+ORD0837,2025-01-21,C211,Karan Malhotra,Calculator,Office Supplies,East,5,3600.0,0.1,1140.61
+ORD0838,2025-04-29,C020,Meena Sharma,Mouse,Technology,South,2,1800,0,603.04
+ORD0839,2025-11-17,C050,Pooja Singh,USB Hub,Technology,Central,4,4320.0,0.1,1325.24
+ORD0840,2025-02-24,C192,Simran Joshi,External Hard Drive,Technology,Central,7,38675.0,0.15,7781.46
+ORD0841,2025-03-27,C092,Simran Kumar,Backpack,Accessories,Central,7,15400,0,5129.29
+ORD0842,2025-03-22,C103,Amit Gupta,USB Hub,Technology,Central,6,6120.0,0.15,1717.64
+ORD0843,2025-06-16,C114,Riya Gupta,Office Chair,Furniture,West,6,32400.0,0.1,7813.48
+ORD0844,2025-05-04,C196,Kavya Joshi,Table Lamp,Furniture,South,6,9720.0,0.1,2655.31
+ORD0845,2025-08-20,C097,Nikhil Kumar,External Hard Drive,Technology,West,5,30875.0,0.05,6039.15
+ORD0846,2025-01-09,C001,Rahul Sharma,Smartphone,Technology,East,5,108000.0,0.1,21945.44
+ORD0847,2025-06-11,C002,Priya Sharma,Pen Set,Office Supplies,East,4,1176.0,0.02,359.39
+ORD0848,2025-01-20,C236,Kavya Kapoor,External Hard Drive,Technology,South,3,19500,0,3875.27
+ORD0849,2025-05-08,C036,Kavya Verma,Notebook,Office Supplies,East,6,2700.0,0.1,749.05
+ORD0850,2025-04-22,C024,Neha Verma,Desk Organizer,Office Supplies,East,7,4410.0,0.1,1405.22
+ORD0851,2025-12-20,C203,Amit Malhotra,Webcam,Technology,North,3,9660.0,0.08,2517.63
+ORD0852,2025-10-23,C153,Aditya Shah,Pen Set,Office Supplies,North,1,255.0,0.15,79.35
+ORD0853,2025-08-11,C236,Kavya Kapoor,Desk,Furniture,North,6,38400.0,0.2,7955.75
+ORD0854,2025-11-20,C223,Amit Kapoor,Printer,Office Supplies,East,1,10200.0,0.15,1984.24
+ORD0855,2025-10-17,C135,Manish Mehta,Smartphone,Technology,Central,6,129600.0,0.1,24567.98
+ORD0856,2025-12-11,C179,Suresh Yadav,Printer,Office Supplies,West,3,36000,0,7777.89
+ORD0857,2025-08-10,C249,Vikash Mishra,Backpack,Accessories,West,2,4312.0,0.02,1317.91
+ORD0858,2025-09-01,C038,Ayesha Verma,Headphones,Technology,North,6,18000,0,6068.58
+ORD0859,2025-07-24,C141,Rahul Shah,Bookshelf,Furniture,South,5,35000,0,8002.33
+ORD0860,2025-04-12,C196,Kavya Joshi,Headphones,Technology,Central,8,21600.0,0.1,6984.46
+ORD0861,2025-02-06,C051,Karan Singh,External Hard Drive,Technology,West,4,25480.0,0.02,4875.53
+ORD0862,2025-12-10,C083,Amit Kumar,Desk Organizer,Office Supplies,East,2,1400,0,433.92
+ORD0863,2025-11-01,C090,Pooja Kumar,Mouse,Technology,East,6,5130.0,0.05,1732.26
+ORD0864,2025-03-16,C044,Neha Singh,Office Chair,Furniture,South,8,43200.0,0.1,9693.31
+ORD0865,2025-02-13,C052,Simran Singh,Office Chair,Furniture,North,3,14400.0,0.2,2889.51
+ORD0866,2025-05-28,C063,Amit Patel,Calculator,Office Supplies,North,3,1920.0,0.2,504.15
+ORD0867,2025-06-19,C079,Suresh Patel,Backpack,Accessories,Central,8,17600,0,5339.27
+ORD0868,2025-09-05,C055,Manish Singh,Mouse,Technology,South,5,4050.0,0.1,1342.03
+ORD0869,2025-12-06,C178,Ayesha Yadav,Laptop,Technology,East,7,346500.0,0.1,55395.13
+ORD0870,2025-12-23,C044,Neha Singh,Smartphone,Technology,North,5,117600.0,0.02,24846.86
+ORD0871,2025-12-05,C120,Meena Gupta,Laptop,Technology,East,2,101200.0,0.08,15541.37
+ORD0872,2025-11-29,C222,Priya Kapoor,Monitor,Technology,West,1,17100.0,0.05,3217.7
+ORD0873,2025-11-02,C131,Karan Mehta,Monitor,Technology,South,6,99360.0,0.08,19006.04
+ORD0874,2025-12-31,C051,Karan Singh,USB Hub,Technology,South,8,8640.0,0.1,2235.63
+ORD0875,2025-09-08,C237,Nikhil Kapoor,USB Hub,Technology,South,5,5700.0,0.05,1610.78
+ORD0876,2025-11-17,C005,Rohit Sharma,Office Chair,Furniture,Central,6,34200.0,0.05,7609.33
+ORD0877,2025-01-16,C071,Karan Patel,Smartphone,Technology,East,5,110400.0,0.08,24276.55
+ORD0878,2025-12-03,C058,Ayesha Singh,Headphones,Technology,West,6,16560.0,0.08,5051.77
+ORD0879,2025-05-04,C134,Riya Mehta,Calculator,Office Supplies,West,4,2944.0,0.08,911.66
+ORD0880,2025-10-05,C249,Vikash Mishra,Pen Set,Office Supplies,South,6,1656.0,0.08,504.65
+ORD0881,2025-03-12,C149,Vikash Shah,External Hard Drive,Technology,Central,4,20800.0,0.2,3741.09
+ORD0882,2025-03-16,C233,Aditya Kapoor,Headphones,Technology,Central,7,16800.0,0.2,5424.98
+ORD0883,2025-10-13,C235,Manish Kapoor,Keyboard,Technology,North,6,10800,0,3618.99
+ORD0884,2025-01-16,C048,Anjali Singh,Desk,Furniture,West,3,20400.0,0.15,4616.84
+ORD0885,2025-11-23,C247,Arjun Mishra,Table Lamp,Furniture,East,5,8280.0,0.08,2423.3
+ORD0886,2025-04-05,C039,Suresh Verma,Mouse,Technology,Central,2,1764.0,0.02,539.52
+ORD0887,2025-04-29,C158,Ayesha Shah,Notebook,Office Supplies,North,4,1800.0,0.1,499.17
+ORD0888,2025-09-15,C092,Simran Kumar,Tablet,Technology,West,8,219520.0,0.02,37093.76
+ORD0889,2025-07-18,C183,Amit Joshi,Office Chair,Furniture,South,3,14400.0,0.2,3144.25
+ORD0890,2025-07-29,C042,Priya Singh,Mouse,Technology,North,4,3600,0,1250.79
+ORD0891,2025-12-10,C237,Nikhil Kapoor,Notebook,Office Supplies,South,7,3430.0,0.02,1105.77
+ORD0892,2025-11-12,C017,Nikhil Sharma,Keyboard,Technology,East,8,11520.0,0.2,3592.28
+ORD0893,2025-07-27,C222,Priya Kapoor,Backpack,Accessories,Central,4,8096.0,0.08,2643.74
+ORD0894,2025-11-10,C189,Vikash Joshi,Bookshelf,Furniture,Central,6,38640.0,0.08,9314.52
+ORD0895,2025-02-25,C153,Aditya Shah,External Hard Drive,Technology,North,1,5850.0,0.1,1127.43
+ORD0896,2025-01-21,C225,Rohit Kapoor,Printer,Office Supplies,Central,7,71400.0,0.15,14380.31
+ORD0897,2025-08-14,C196,Kavya Joshi,Smartphone,Technology,East,4,91200.0,0.05,18423.73
+ORD0898,2025-08-05,C199,Suresh Joshi,Pen Set,Office Supplies,North,8,2352.0,0.02,753.69
+ORD0899,2025-11-27,C177,Nikhil Yadav,USB Hub,Technology,Central,3,3312.0,0.08,936.89
+ORD0900,2025-07-31,C029,Vikash Verma,Keyboard,Technology,North,3,4968.0,0.08,1569.16
+ORD0901,2025-02-16,C046,Sneha Singh,Backpack,Accessories,South,4,8096.0,0.08,2408.04
+ORD0902,2025-12-28,C184,Neha Joshi,Monitor,Technology,East,2,36000,0,6943.33
+ORD0903,2025-09-19,C022,Priya Verma,USB Hub,Technology,South,7,7140.0,0.15,2034.56
+ORD0904,2025-03-29,C097,Nikhil Kumar,External Hard Drive,Technology,Central,7,45500,0,9700.24
+ORD0905,2025-03-16,C224,Neha Kapoor,Headphones,Technology,North,3,7200.0,0.2,2095.86
+ORD0906,2025-08-17,C108,Anjali Gupta,Pen Set,Office Supplies,South,5,1275.0,0.15,389.35
+ORD0907,2025-11-15,C031,Karan Verma,Headphones,Technology,North,4,12000,0,4169.85
+ORD0908,2025-01-03,C118,Ayesha Gupta,Webcam,Technology,West,8,25200.0,0.1,6424.4
+ORD0909,2025-07-29,C061,Rahul Patel,Mouse,Technology,Central,8,6624.0,0.08,2137.68
+ORD0910,2025-05-23,C154,Riya Shah,Laptop,Technology,Central,4,198000.0,0.1,32189.85
+ORD0911,2025-03-17,C210,Pooja Malhotra,Mouse,Technology,East,1,882.0,0.02,271.14
+ORD0912,2025-10-23,C010,Pooja Sharma,Headphones,Technology,East,1,2550.0,0.15,866.58
+ORD0913,2025-08-02,C085,Rohit Kumar,Tablet,Technology,South,1,28000,0,4855.49
+ORD0914,2025-10-24,C173,Aditya Yadav,Pen Set,Office Supplies,North,3,828.0,0.08,263.29
+ORD0915,2025-07-14,C024,Neha Verma,Pen Set,Office Supplies,West,6,1710.0,0.05,593.25
+ORD0916,2025-08-30,C216,Kavya Malhotra,External Hard Drive,Technology,East,2,12350.0,0.05,2285.47
+ORD0917,2025-04-18,C085,Rohit Kumar,USB Hub,Technology,Central,7,7560.0,0.1,2220.52
+ORD0918,2025-12-19,C015,Manish Sharma,Monitor,Technology,East,2,33120.0,0.08,6417.35
+ORD0919,2025-09-27,C110,Pooja Gupta,Calculator,Office Supplies,Central,6,4560.0,0.05,1424.28
+ORD0920,2025-11-20,C091,Karan Kumar,Headphones,Technology,South,8,21600.0,0.1,6997.11
+ORD0921,2025-05-29,C227,Arjun Kapoor,Calculator,Office Supplies,North,4,2720.0,0.15,889.18
+ORD0922,2025-03-02,C031,Karan Verma,Laptop,Technology,South,8,374000.0,0.15,61235.64
+ORD0923,2025-01-24,C205,Rohit Malhotra,Calculator,Office Supplies,Central,7,5152.0,0.08,1528.46
+ORD0924,2025-04-14,C207,Arjun Malhotra,Mouse,Technology,East,1,765.0,0.15,252.87
+ORD0925,2025-09-17,C203,Amit Malhotra,Tablet,Technology,North,5,133000.0,0.05,21273.73
+ORD0926,2025-10-19,C030,Pooja Verma,Desk,Furniture,North,6,44160.0,0.08,9920.44
+ORD0927,2025-06-23,C214,Riya Malhotra,Keyboard,Technology,West,4,6840.0,0.05,2412.16
+ORD0928,2025-03-11,C235,Manish Kapoor,Webcam,Technology,West,1,2975.0,0.15,728.59
+ORD0929,2025-07-31,C229,Vikash Kapoor,External Hard Drive,Technology,North,6,35880.0,0.08,7553.88
+ORD0930,2025-12-14,C214,Riya Malhotra,USB Hub,Technology,Central,5,5400.0,0.1,1479.59
+ORD0931,2025-07-01,C005,Rohit Sharma,Mouse,Technology,South,6,4320.0,0.2,1225.07
+ORD0932,2025-11-17,C072,Simran Patel,Laptop,Technology,South,6,303600.0,0.08,48896.12
+ORD0933,2025-11-01,C147,Arjun Shah,Calculator,Office Supplies,East,7,5488.0,0.02,1598.97
+ORD0934,2025-07-31,C181,Rahul Joshi,Desk,Furniture,South,1,7600.0,0.05,1568.5
+ORD0935,2025-09-26,C096,Kavya Kumar,Backpack,Accessories,North,5,10780.0,0.02,3301.8
+ORD0936,2025-08-16,C096,Kavya Kumar,Smartphone,Technology,West,4,96000,0,20019.18
+ORD0937,2025-06-24,C232,Simran Kapoor,USB Hub,Technology,Central,3,3528.0,0.02,1094.92
+ORD0938,2025-02-20,C080,Meena Patel,Desk,Furniture,Central,3,19200.0,0.2,4328.33
+ORD0939,2025-01-19,C174,Riya Yadav,Headphones,Technology,Central,4,10200.0,0.15,3224.0
+ORD0940,2025-12-18,C030,Pooja Verma,Laptop,Technology,North,5,275000,0,47506.49
+ORD0941,2025-09-24,C086,Sneha Kumar,Backpack,Accessories,East,1,2200,0,729.81
+ORD0942,2025-04-18,C006,Sneha Sharma,Desk Organizer,Office Supplies,South,5,2975.0,0.15,862.22
+ORD0943,2025-08-14,C074,Riya Patel,Notebook,Office Supplies,East,6,2400.0,0.2,699.64
+ORD0944,2025-01-08,C039,Suresh Verma,Keyboard,Technology,Central,5,9000,0,3219.98
+ORD0945,2025-06-29,C132,Simran Mehta,Monitor,Technology,East,4,64800.0,0.1,12360.58
+ORD0946,2025-02-06,C037,Nikhil Verma,Pen Set,Office Supplies,East,4,1176.0,0.02,377.93
+ORD0947,2025-01-15,C139,Suresh Mehta,Backpack,Accessories,North,1,2156.0,0.02,679.22
+ORD0948,2025-08-07,C028,Anjali Verma,Bookshelf,Furniture,Central,1,7000,0,1572.33
+ORD0949,2025-07-02,C229,Vikash Kapoor,Desk Organizer,Office Supplies,South,8,5040.0,0.1,1487.18
+ORD0950,2025-08-27,C183,Amit Joshi,External Hard Drive,Technology,North,2,10400.0,0.2,1978.2
+ORD0951,2025-06-08,C209,Vikash Malhotra,Backpack,Accessories,West,2,4048.0,0.08,1301.32
+ORD0952,2025-11-12,C121,Rahul Mehta,Printer,Office Supplies,East,4,47040.0,0.02,9362.88
+ORD0953,2025-06-16,C101,Rahul Gupta,Keyboard,Technology,North,6,8640.0,0.2,2673.09
+ORD0954,2025-09-03,C017,Nikhil Sharma,Webcam,Technology,South,2,6650.0,0.05,1676.34
+ORD0955,2025-02-22,C073,Aditya Patel,Office Chair,Furniture,North,3,16200.0,0.1,3611.62
+ORD0956,2025-06-04,C084,Neha Kumar,External Hard Drive,Technology,West,2,10400.0,0.2,1963.62
+ORD0957,2025-05-05,C152,Simran Shah,Table Lamp,Furniture,West,4,6480.0,0.1,1765.34
+ORD0958,2025-12-22,C099,Suresh Kumar,Tablet,Technology,West,6,164640.0,0.02,26717.99
+ORD0959,2025-12-06,C146,Sneha Shah,Desk,Furniture,Central,4,31360.0,0.02,7215.39
+ORD0960,2025-11-02,C215,Manish Malhotra,Webcam,Technology,Central,2,6300.0,0.1,1564.32
+ORD0961,2025-07-27,C025,Rohit Verma,Backpack,Accessories,North,3,6270.0,0.05,1824.14
+ORD0962,2025-09-11,C176,Kavya Yadav,Calculator,Office Supplies,North,7,5320.0,0.05,1681.22
+ORD0963,2025-11-22,C024,Neha Verma,Mouse,Technology,South,3,2430.0,0.1,832.12
+ORD0964,2025-05-30,C170,Pooja Yadav,Headphones,Technology,Central,8,21600.0,0.1,6859.18
+ORD0965,2025-06-12,C115,Manish Gupta,Mouse,Technology,East,4,3060.0,0.15,936.55
+ORD0966,2025-10-26,C236,Kavya Kapoor,Table Lamp,Furniture,Central,6,10800,0,2763.9
+ORD0967,2025-07-09,C104,Neha Gupta,Headphones,Technology,North,5,15000,0,5320.86
+ORD0968,2025-05-25,C001,Rahul Sharma,External Hard Drive,Technology,South,6,39000,0,8256.37
+ORD0969,2025-06-12,C111,Karan Gupta,Desk Organizer,Office Supplies,West,7,4165.0,0.15,1303.43
+ORD0970,2025-03-30,C098,Ayesha Kumar,Table Lamp,Furniture,South,4,6120.0,0.15,1616.96
+ORD0971,2025-08-02,C143,Amit Shah,Bookshelf,Furniture,South,6,33600.0,0.2,6668.95
+ORD0972,2025-01-09,C035,Manish Verma,Laptop,Technology,West,2,93500.0,0.15,13599.71
+ORD0973,2025-03-12,C169,Vikash Yadav,Table Lamp,Furniture,West,3,5400,0,1534.14
+ORD0974,2025-04-03,C221,Rahul Kapoor,Backpack,Accessories,West,7,13860.0,0.1,4251.75
+ORD0975,2025-04-26,C142,Priya Shah,Backpack,Accessories,Central,7,14630.0,0.05,4347.41
+ORD0976,2025-05-02,C002,Priya Sharma,Desk Organizer,Office Supplies,East,8,4480.0,0.2,1379.74
+ORD0977,2025-01-20,C106,Sneha Gupta,External Hard Drive,Technology,East,6,39000,0,7885.05
+ORD0978,2025-02-10,C029,Vikash Verma,Desk Organizer,Office Supplies,Central,8,4760.0,0.15,1329.21
+ORD0979,2025-02-10,C220,Meena Malhotra,Notebook,Office Supplies,Central,8,3600.0,0.1,1054.48
+ORD0980,2025-12-06,C023,Amit Verma,Printer,Office Supplies,North,8,81600.0,0.15,17723.32
+ORD0981,2025-01-28,C176,Kavya Yadav,External Hard Drive,Technology,Central,5,29250.0,0.1,6107.23
+ORD0982,2025-09-20,C200,Meena Joshi,Laptop,Technology,Central,8,404800.0,0.08,69477.75
+ORD0983,2025-05-31,C188,Anjali Joshi,Desk,Furniture,North,7,53200.0,0.05,11387.54
+ORD0984,2025-10-16,C178,Ayesha Yadav,Calculator,Office Supplies,West,5,3400.0,0.15,967.71
+ORD0985,2025-05-30,C149,Vikash Shah,Keyboard,Technology,Central,1,1530.0,0.15,517.15
+ORD0986,2025-03-06,C007,Arjun Sharma,Pen Set,Office Supplies,East,8,2400,0,800.72
+ORD0987,2025-05-12,C065,Rohit Patel,Headphones,Technology,North,5,14250.0,0.05,4298.86
+ORD0988,2025-08-17,C155,Manish Shah,Keyboard,Technology,South,3,4590.0,0.15,1424.99
+ORD0989,2025-09-28,C067,Arjun Patel,Printer,Office Supplies,East,8,94080.0,0.02,20658.45
+ORD0990,2025-09-11,C022,Priya Verma,Headphones,Technology,West,3,7200.0,0.2,2371.33
+ORD0991,2025-08-14,C198,Ayesha Joshi,Bookshelf,Furniture,South,4,23800.0,0.15,5431.42
+ORD0992,2025-11-25,C054,Riya Singh,Desk Organizer,Office Supplies,North,6,4200,0,1270.24
+ORD0993,2025-09-01,C014,Riya Sharma,Keyboard,Technology,Central,8,13248.0,0.08,4167.45
+ORD0994,2025-05-15,C060,Meena Singh,Bookshelf,Furniture,West,7,45080.0,0.08,9444.11
+ORD0995,2025-12-14,C004,Neha Sharma,Pen Set,Office Supplies,Central,8,2208.0,0.08,696.41
+ORD0996,2025-11-23,C175,Manish Yadav,Smartphone,Technology,West,2,43200.0,0.1,8516.12
+ORD0997,2025-05-17,C157,Nikhil Shah,Notebook,Office Supplies,East,6,2850.0,0.05,887.28
+ORD0998,2025-12-12,C168,Anjali Yadav,Desk Organizer,Office Supplies,Central,7,4508.0,0.08,1447.38
+ORD0999,2025-12-20,C198,Ayesha Joshi,Mouse,Technology,East,6,4590.0,0.15,1604.55
+ORD1000,2025-02-04,C141,Rahul Shah,Laptop,Technology,North,1,44000.0,0.2,6047.22
